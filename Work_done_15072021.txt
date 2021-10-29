@@ -1,0 +1,205 @@
+Date: 15/07/2021
+
+Task 1:
+
+Add in sample_full_detail.html:
+
+Before tree structure div tag:
+
+<p>
+                    <a href="{% url 'freezing_box' sample_id=sample %}">
+                        <button class="btn btn-default btn-sm">
+                            Go To Freezing Box
+                        </button>
+                    </a>
+                </p>
+
+
+
+
+In urls.py:
+
+path('<str:sample_id>/freezing_box/', views.freezing_box, name='freezing_box'),
+
+
+
+In views.py:
+
+
+def freezing_box(request, sample_id):
+    freeze = freezing.objects.filter(subtype_id__in=culture_info.objects.filter(sample_id=sample_id))
+    data = {}
+    data1 = {}
+    data2 = []
+    for obj in freeze:
+        data2 = [obj.freezing_id, obj.sample_name, str(obj.subtype_id), str(obj.processing_id)]
+        data1[obj.location] = data2.copy()
+        data[obj.box] = data1.copy()
+        data2.clear()
+        data1.clear()
+
+
+    print(data)
+    context = {'r': 10, 'n': range(1, 11, 2), 'data': data}
+    template = "main/freezing_box.html"
+    return render(request, template, context)
+
+
+
+Add html page in templates/main/  => freezing_box.html
+
+{% load bootstrap3 %}
+{% load widget_tweaks %}
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+        <style>
+            table {
+                width: 350px;
+                height: 300px;
+                float: left;
+            }
+            td {
+                width: 32px;
+                height: 32px;
+                text-align: center;
+            }
+            caption {
+                color: black;
+                text-align: center;
+                font-weight: bold;
+            }
+            @media (min-width:768px){
+                .box-class{
+                display: flex;
+                justify-content: center;
+                margin-bottom:20px;
+                }
+            }
+        </style>
+    </head>
+    <body>
+        {% include "main/navbar.html" %}
+
+        <div class="container p-3">
+            <p>
+                <a href="#" onClick="javascript:history.go(-1);">
+                    <button class="btn btn-default btn-sm">
+                        <span class="glyphicon glyphicon-arrow-left"></span> Back
+                    </button>
+                </a>
+            </p>
+
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <b>Freezing Box</b>
+                </div>
+                <div class="panel-body">
+                    <div class="row">
+                        {% for i in n %}
+                            <div class="col-md-6 box-class" id="content1">
+                                <table border="1" id="table-{{i}}">
+                                    <tbody>
+
+                                    </tbody>
+                                </table>
+                            </div>
+                            <div class="col-md-6 box-class" id="content2">
+                                <table border="1" id="table-{{i|add:1}}">
+                                    <tbody>
+
+                                    </tbody>
+                                </table>
+                            </div>
+                        {% endfor %}
+                    </div>
+                </div>
+            </div>
+        </div>
+        <script>
+            $(document).ready(function () {
+                var data = 81;
+                var maxRow = 9;
+                var maxCol = 9;
+                for (var j=1; j<={{r|safe}}; j++) {
+                    var table = $("#table-"+j+" tbody");
+                    var table1 = $("#table-"+j);
+                    var ctr = 0;
+                    var a = 0;
+                    table1.append('<caption>Box '+j+'</caption>')
+                    for (var row = 0; row < maxRow; row++) {
+                        table.append('<tr></tr>');
+                        var appendRow = $('#table-'+j+' tr:last');
+                        a = a + 1;
+                        for (var i = a; i <= data; i++) {
+                            if (i % maxCol != 0) {
+                                appendRow.append('<td id="table-'+j+'-'+i+'">' + i + '</td>');
+                                //ctr++;
+                            }
+                            if (i%maxCol == 0)
+                            {
+                                appendRow.append('<td id="table-'+j+'-'+i+'">' + i + '</td>');
+                                a = i;
+                                break;
+                            }
+                        }
+                    }
+                }
+            });
+        </script>
+        <script>
+            $(document).ready(function() {
+                for (const [d_key, d_value] of Object.entries({{data | safe}})) {
+                    console.log(d_key, d_value);
+                    for (var j=1; j<={{r|safe}}; j++){
+                        if (j == d_key){
+                            for(const [v_key, v_value] of Object.entries(d_value)){
+                                var x = document.getElementById("table-"+j+"-"+v_key)
+                                x.style.backgroundColor = "red";
+                                var b = {};
+                                for(let d=0; d<v_value.length; d++){
+                                    b['val_' + d] = v_value[d];
+                                }
+                                $(x).attr({
+                                    "data-toggle": "popover",
+                                    "data-trigger": "hover",
+                                    "data-html": "true",
+                                    "data-content": "Details:<br />Freezing Id:" + b.val_0 + ",<br />Sample Name:" + b.val_1 + ",<br />Subtype Id:" + b.val_2 + ",<br />Processing Id:" + b.val_3,
+                                });
+                            }
+                        }
+                    }
+                }
+            });
+        </script>
+        <script>
+            $(document).ready(function(){
+                $('[data-toggle="popover"]').popover({container : 'body'});   
+            });
+        </script>
+    </body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

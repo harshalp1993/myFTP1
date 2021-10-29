@@ -1,0 +1,218 @@
+1,,CUP,,,,,Pleura
+2,,PDAC,,,,,Pancreas
+3,,Sarcoma,Spindle cell Sarcoma,,,,Soft tissue
+4,,CRC,Metastasis,,,,Peritoneum
+5,,CRC,Metastasis,,,,Peritoneum
+6,,CRC,Metastasis,,,,Peritoneum
+7,,CRC,Metastasis,,,,Peritoneum
+8,,SCC,,,,,Lung
+9,,HCC,,,,,Liver
+10,,Melanoma,Metastasis,,,,Sinunasal
+11,,CUP,,,,,Unknown
+12,,CRC,,,,,Colon
+13,,CRC,,,,,Colon
+14,,Sarcoma,SFT,,,,Liver
+15,,PDAC,,,,,Pancreas
+16,,Carcinoma,AdrenocorticalCA,,,,Adrenal gland
+17,,Sarcoma,Leiomyosarcoma,,,,Soft tissue
+18,,Sarcoma,Leiomyosarcoma,,,,Soft tissue
+19,,Sarcoma,UPS,,,,Soft tissue
+20,,Tumor,Giant cell tumor,,,, Soft tissue
+21,,Sarcoma,Clear Cell Sarcoma,,,,Kidney
+22,,Sarcoma,MPNST,,,,Lung
+23,,AmpullaryCA,,,,,Small intestine
+24,,Sarcoma,Rhabdo,,,,Soft tissue
+25,,PDAC,,,,,Pancreas
+26,,Sarcoma,UPS,,,,Soft tissue
+27,,NTRK,,,,,Soft tissue
+28,,Sarcoma,Synovial Sarcoma,,,,Soft tissue
+29,,PDAC,,,,,Pancreas
+30,,CCC,Tumor 1,,,,Liver
+31,,CCC,Tumor 2,,,,Liver
+32,,CCC,Stroma,,,,Liver
+33,,Sarcoma,Angiosarcoma,,,,Soft tissue
+34,,SCC,Basaloid,,,,Anal
+35,,EsophagusCA,Metastasis,,,,Peritoneum
+36,,Sarcoma,Myx. Liposarcoma,,,,Soft tissue
+37,,CCC,,,,,Liver
+38,,PapillaryCA,,,,,Thyroid
+39,,CRC,,,,,Colon
+40,,CCC,,,,,Liver
+41,,Sarcoma,Osteosarcoma,,,,Lung 
+42,,Sarcoma,Myxofibrosarcoma,,,,Soft tissue
+43,,ClearcellCA,,,,,Ovary
+44,,PDAC,,,,,Pancreas
+45,,CRC,Metastasis,,,,Peritoneum
+46,,PDAC,,,,,Pancreas
+47,,PDAC,,,,,Pancreas
+48,,Sarcoma,UPS,,,,Soft tissue
+49,,Sarcoma,Osteosarcoma,,,,Lung
+50,,EsophagusCA,Metastasis,,LP2020.13,,Peritoneum 
+51,,Sarcoma,UPS,,,,Soft tissue
+52,,PDAC,,,,,Pancreas
+53,,AppendixCA,Metastasis,,,,Peritoneum
+54,,PDAC,,,,,Pancreas
+55,,AppendixCA,Metastasis,,,,Peritoneum
+56,,CRC,Metastasis,,,,Peritoneum
+57,,Sarcoma,Leiomyosarcoma,,,,Soft tissue
+58,,CUP,,,LP2020.606,,Peritoneum
+59,,CUP,,,LP2020.33451,,Peritoneum
+60,,Serous,Metastasis,,LP2020.440,,Peritoneum
+61,,Mesothelioma,,,,,Pleura
+62,,Sarcoma,Myx. Liposarcoma,,,,Soft tissue
+63,,CRC,Metastasis,,,,Peritoneum
+64,,Sarcoma,Myx. Liposarcoma,,,,Soft tissue
+65,,NET,,,,,Pancreas
+66,,CRC,Metastasis,,,,Liver
+67,,Tumor,Aneurysmatic bone cyste,,,,Bone
+68,,CRC,Metastasis,,,,Liver
+69,,CRC,,,,,Rectum
+70,,CRC,Metastasis,,,,Peritoneum
+71,,CCC,,,,,Liver
+72,,Sarcoma,ALT,,,,Soft tissue
+73,,CCC,,,,,Liver
+74,,Sarcoma,BCORITD,,,,Soft tissue
+75,,Sarcoma,Myxofibrosarcoma,,,,Soft tissue
+76,,PDAC,,,,,Pancreas
+77,,BreastCA,Ductal,,,,bone
+78,,Sarcoma,Chondrosarcoma,,,,Soft tissue
+79,,Sarcoma,Chondrosarcoma,,,,Bone
+80,,Adenocarcinoma,Intestinal-type,,LP2020.876,,Sinunasal
+81,,Tumor,Mesenchymal Tumor,,,,Sinunasal
+82,,CRC,,,,,Rectum
+83,,PDAC,,,,,Pancreas
+84,,Carcinoma,Undifferentiated,,LP2020.892,,Sinunasal
+85,,SCC,Basaloid,,,,Sinunasal
+86,,CRC,Goblet cell,,,,Appendix
+87,,Serous,,,,,Ovary
+88,,Carcinoma,Pleomorph,,,,Lung
+89,,CCC,,,,,Liver
+90,,CRC,,,,, Colon
+91,,PDAC,,,,,Pancreas
+92,,HCC,,,,,Liver
+93,,Sarcoma,Pleomorph,,,,Soft tissue
+94,,NET,Metastasis,,,,Liver
+95,,Sarcoma,Leiomyosarcoma,,,,Soft tissue
+96,,Sarcoma,Leiomyosarcoma,,,,Small intestine
+97,,Tumor,Lipoma,,,,Soft tissue
+98,,HCC,,,,,Liver
+99,,CRC,Metastasis,,,,Peritoneum
+100,,Carcinoma,Azinus cellCA,,SP2020.1743,,Salivary Gland
+101,,Germ cell tumor, Metastasis,,,,Lung
+102,,CRC,Metastasis,,,,Liver
+103,,Melanoma,Metastasis,,,,Soft tissue
+104,,MMMT,,,,,Ovary
+105,,Sarcoma,Leiomyosarcoma,,,,Soft tissue
+106,,Seminoma,,,,,Testis
+107,,Adenocarcinoma,,,,,Stomach
+108,,Adenocarcinoma,,,LP2020.1016,,Lung
+109,,Sarcoma,Intima Sarcoma,,,,Lung
+110,,Sarcoma,Chondrosarcoma,,,,Soft tissue
+111,,HCC,,,,,Liver
+112,,HCC,,,,,Liver
+113,,Thymom,Type A,,,,Thymus
+114,,HCC,,,,,Liver
+115,,NET,,,,,Small intestine
+116,,Mesothelioma,,,,,Pleura
+117,,Tumor,PanIN,,,,Pancreas
+118,,CRC,Metastasis,,,,Peritoneum
+119,,Sarcoma,Dediff. Liposarcoma,,,,Mediastinum
+120,,Tumor,Desmoid-Tumor,,,,Soft tissue
+121,,Tumor,IMT,,,,Lung
+122,,PDAC,,,,,Pancreas
+123,,Sarcoma,UPS,,,,Soft tissue
+124,,MagenCA,Metastasis,,,,Peritoneum
+125,,Tumor,Giant cell tumor,,,, Bone
+126,,Sarcoma,G20.978,,,,Soft tissue
+127,,Sarcoma,Leiomyosarcoma,,,,Liver
+128,,Sarcoma,Myx. Liposarcoma,,,,Soft tissue
+129,,Tumor,SFT,,,,Pleura
+130,,Sarcoma,Chondrosarcoma,,,,Bone
+131,,CRC,Metastasis,,,,Liver
+132,,Acinar cell Carcinoma,Metastasis,,,,Liver
+133,,Sarcoma,Myxofibrosarcoma,,,,Soft tissue
+134,,Mesothelioma,,,,,Peritoneum
+135,,Melanoma,,,,,Cervix
+136,,Sarcoma,Synovial Sarcoma,,,,Lung
+137,,Sarcoma,Osteosarcoma,,,,Bone
+138,,CRC,Metastasis,,,,Liver
+139,,PDAC,,,,,Pancreas
+140,,Melanoma,Metastasis,,,,Brain
+141,,CCC,,,,,Liver
+142,,Adenoma,b-HCA,,,,Liver
+143,,CRC,Metastasis,,,,Liver
+144,,HCC,,,,,Liver
+145,,Sarcoma,UPS,,,,Soft tissue
+146,,CCC,,,,,Liver
+147,,Sarcoma,UPS,,,,Lung
+148,,Adenocarcinoma,,,,,Small intestine
+149,,CCC,,,,,Liver
+150,,Sarcoma,SFT,,,,Soft tissue
+151,,CRC,Metastasis,,,,Liver
+152,,CRC,Metastasis,,,,Liver
+153,,CCC,,,,,Liver
+154,,Sarcoma,Myxofibrosarcoma,,,,Soft tissue
+155,,CUP,,,,,Unknown
+156,,CUP,,,,,Unknown
+157,,Sarcoma,,,,,Cat
+158,,Sarcoma,,,,,Dog
+159,,Sarcoma,,,,,Dog
+160,,Sarcoma,,,,,Dog
+161,,Liver,Normal,,,,Mouse
+162,,Sarcoma,G20.236,,,,Soft tissue
+163,,AppendixCA,Metastasis,,,,Peritoneum
+164,,Adenocarcinoma,Metastasis,,,,Prostate
+165,,Adenocarcinoma,,,,,Lung
+166,,Adenocarcinoma,,,,,Lung
+167,,Adenocarcinoma,,,,,Lung
+168,,Adenocarcinoma,,,,,Lung
+169,,Carcinoma,,,,,Peritoneum
+170,,MMMT,,,,,Ovary
+171,,MMMT,,,,,Ovary
+172,,Tumor,IPMN,,,,Pancreas
+173,,Adenocarcinoma,,,,,Lung
+174,,Adenocarcinoma,,,,,Lung
+175,,Adenocarcinoma,,,,,Lung
+176,,Adenocarcinoma,,,,,Lung
+177,,Adenocarcinoma,,,,,Lung
+178,,Adenocarcinoma,,,,,Lung
+179,,CRC,Metastasis,,,,Lung
+180,,Adenocarcinoma,Lobular,,,,Breast
+181,,Serous,,,,,Ovary
+182,,Serous,,,,,Ovary
+183,,PDAC,,,,,Pancreas
+184,,Carcinoma,Undifferentiated,,,,Lung
+185,,CRC,,,,,Colon
+186,,Adenocarcinoma,Ductal,,,,Breast
+187,,Adenocarcinoma,,,,,Lung
+188,,Adenocarcinoma,,,,,Lung
+189,,CUP,,,,,Lung
+190,,CCC,,,,,Liver
+191,,Serous,,,,,Ovary
+192,,Adenocarcinoma,,,,,Lung
+193,,SCLC,,,,,Lung
+194,,PDAC,,,,,Ovary
+195,,PDAC,,,,,Pancreas
+196,,CCC,,,,,Liver
+197,,Adenocarcinoma,,,,,Lung
+198,,Adenocarcinoma,,,,,Lung
+199,,Adenocarcinoma,Serous,,,,Ovary
+200,,Adenocarcinoma,,,,,Sinunasal
+201,,Adenocarcinoma,Lobular,,,,Breast
+202,,serous,,,,,Ovary
+203,,Adenocarcinoma,,,,,Lung
+204,,SCLC,,,,,Lung
+205,,Serous,,,,,Ovary
+206,,Adenocarcinoma,,,,,Lung
+207,,Adenocarcinoma,,,,,Esophagus
+208,,Adenocarcinoma,,,,,Stomach
+209,,Adenocarcinoma,,,,,Lung
+210,,Adenocarcinoma,,,,,Lung
+211,,Adenocarcinoma,,,,,Stomach
+212,,Lymphoma,Unknown,,,,Unknown
+213,,,,,,,Cell line
+214,,,,,,,Cell line
+215,,,,,,,Cell line
+216,,,,,,,Cell line
+217,,,,,,,Cell line
+218,,,,,,,Cell line

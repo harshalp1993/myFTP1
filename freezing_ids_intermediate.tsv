@@ -1,0 +1,220 @@
+ProcessingID	SubtypeID	Amount	Freezing Type	Location	Tower	Box	Frozen by	Start	End	BoxRemoved	Date	DateRemoved	DefrozePassage	Passage Number	removedBy	SentTo	StartRemoved	Type	EndRemoved	VialsRemoved
+FLB2.1	2.1	0	other								13.06.20		0	4				PDAC Stroma		
+FLB2.2	2.2	4	cryovial	N2-Tank	S	1	AK	27	30		09.07.20		0	5				PDAC Stroma		
+FLB2.3	2.3	6	unknown								20.07.20		0	3				PDAC Stroma		
+FLB2.5.1	2.5	2	cryovial	N2-Tank	S	5	CH	4	5		08.10.20		0	6				PDAC 		
+FLB2.5.2	2.5	4	pellet	 -80 Freezer	 -	 -	CH	 -	 -		08.10.20		0	6				PDAC		
+FLB2.4	2.4	3	cryovial	N2-Tank	S	11	SS	72	74		16.12.20		0	6				PDAC 		
+FLB3.1	3.1	2	cryovial	N2-Tank	S	6	AK	26	27		16.10.20		0	3				Spindlecell Sarcoma		
+FLB8.1	8.1	8	cryovial	N2-Tank	S	12	CH	48	55		28.12.20		0	4				PlattenCA		
+FLB10.1	10.1	3	tissue	N2-Tank	S	10	CH	5	7		04.12.20		0	0				Melanoma		
+FLB11.1	11.1	8	cryovial	N2-Tank	S	7	CH	46	53		18.11.20		0	4				CUP		
+FLB11.2.1	11.2	8	cryovial	N2-Tank	S	8	CH	29	32		26.11.20		0	5		Sengine		CUP		
+FLB11.2.2	11.2	4	pellet	 -80 Freezer	 -	 -	CH	 -	 -	Cell pellets box 2	26.11.20	11.12.20	0	5	CH	WAGI/Seq.		CUP		1
+FLB11.3	11.3	8	cryovial	N2-Tank	S	10	CH	53	60		08.12.20		0	6				CUP		
+FLB11.4	11.4	6	cryovial	N2-Tank	S	12	CH	56	61		28.12.20		0	7				CUP		
+FLB14.1	14.1	6	tissue	N2-Tank	S	10	CP	61	66		08.12.20		0	0				SFT		
+FLB14.2	14.2	3	cryovial	N2-Tank	A	11	CH	25	25		31.12.20		0	2				SFT 2D		
+FLB14.3.1	14.3	2	cryovial	N2-Tank	C	3	CH	9	10		21.01.21		0	2				SFT 2D		
+FLB14.4	14.4	2	cryovial	N2-Tank	C	3	CH	11	12		21.01.21		0	3				SFT 2D		
+FLB14.3.2	14.3	1	pellet	 -80 Freezer	 -	 -	CH	 -	 -		21.01.21		0	2				SFT 2D		
+FLB14.5	14.5	1	cryovial	N2-Tank	 -	 -	CH	 -	 -		18.02.21		0	0				SFT 2D		
+FLB15.1.1	15.1	4	pellet	 -80 Freezer	 -	 -	SS	 -	 -		29.01.21		0	4				PDAC		
+FLB15.1.2	15.1	4	cryovial	N2-Tank	C	11	SS	17	20		29.01.21		0	4				PDAC		
+FLB17.1	17.1	3	tissue	N2-Tank	S	12	CP	25	27		16.12.20		0	0				Leiomyosarcoma		
+FLB18.1	18.1	4	tissue	N2-Tank	S	12	CP	21	24		16.12.20		0	0				Leiomyosarcoma		
+FLB19.1	19.1	2	tissue	N2-Tank	S	12	CP	13	14		19.12.20		0	0				UPS		
+FLB20.1	20.1	3	tissue	N2-Tank	S	12	CP	10	12		19.12.20		0	0				Riesenzelltumor		
+FLB21.1	21.1	6	tissue	N2-Tank	S	12	CP	15	20		18.12.20		0	0				Klarzellsarkom		
+FLB21.7	21.7	1	cryovial	N2-Tank	 -	 -	CP 	 -	 -		04.01.21		0	1				Klarzellsarkom		
+FLB21.2.1	21.2	10	cryovial	N2-Tank	A	12	AK	1	10		14.01.21		0	2				Baby		
+FLB21.2.2	21.2	4	pellet	 -80 Freezer	 -	 -	AK	 -	 -		14.01.21		0	2				Baby		
+FLB21.3.1	21.3	4	cryovial	N2-Tank	A	12	AK	11	14		20.01.21		0	2				Baby		
+FLB21.3.2	21.3	4	cryovial	N2-Tank	A	12	CH	71	74		20.01.21		0	2				Baby		
+FLB21.4.1	21.4	4	cryovial	N2-Tank	C	3	CH	5	8		21.01.21		0	2				Baby		
+FLB21.4.2	21.4	1	pellet	 -80 Freezer	 -	 -	CH	 -	 -		21.01.21		0	2				Baby		
+FLB21.5	21.5	8	cryovial	N2-Tank	C	11	CH	62	69		12.02.21		0	2				Baby		
+FLB21.6	21.6	2	cryovial	N2-Tank	C	11	CH	80	81		18.02.21		0	1				Baby		
+FLB22.1	22.1	5	tissue	N2-Tank	S	12	CP	5	9		21.12.20		0	0				Sarcoma		
+FLB22.2.1	22.2	2	pellet	 -80 Freezer	 -	 -	VB	 -	 -		02.02.21		0	3				Sarcoma		
+FLB22.2.2	22.2	4	cryovial	N2-Tank	C	11	VB	9	12		02.02.21		0	3				Sarcoma		
+FLB22.3	22.3	4	cryovial	other	 -	 -	AK	 -	 -		19.02.21		0	3				MPNST		
+FLB23.3.1	23.3	4	cryovial	N2-Tank	C	3	SS	46	49		22.01.21		0	3				Ampullary CA		
+FLB23.3.2	23.3	3	pellet	 -80 Freezer	 -	 -	SS	 -	 -		22.01.21		0	3				Ampullary CA		
+FLB23.4	23.4	3	cryovial	N2-Tank			SS				05.02.21		0	5				Ampullary CA		
+FLB24.1	24.1	6	tissue	N2-Tank	S	11 + 12	CP	80	4		22.12.20		0	0				Rhabdo		
+FLB25.1.1	25.1	4	cryovial	N2-Tank	C	3	SS	54	57		22.01.21		0	3				PDAC		
+FLB25.1.2	25.1	3	pellet	 -80 Freezer	 -	 -	SS	 -	 -		22.01.21		0	3				PDAC		
+FLB25.2	25.2	3	cryovial	N2-Tank			SS				05.02.21		0	5				PDAC		
+FLB26.1	26.1	4	tissue	N2-Tank	A	11	CP	1	4		29.12.20		0	0				Sarcoma		
+FLB27.2	27.2	1	cryovial	N2-Tank	S	8	AK	43			16.04.20		0	7				NTRK		
+FLB27.3	27.3	16	cryovial	N2-Tank	S	1	AK	42	57	1	08.07.20	04.01.21	0	16	AK / CH	Sengine / NY	42 / 55	NTRK	45 / 57	04.Mar
+FLB27.4	27.4	5	cryovial	N2-Tank	S	3	AK	77	81		18.08.20		0	18				NTRK		
+FLB27.1	27.1	2	cryovial	N2-Tank	S	8	AK	43	44	8	29.10.20	29.01.21	0	6	AK		43	NTRK		1
+FLB27.5	27.5	4	cryovial	N2-Tank	S	11	AK	10	13		09.12.20		0	30				NTRK		
+FLB28.1	28.1	3	cryovial	N2-Tank	S	2	PAUCH	6	8		01.07.20		0	6				SS		
+FLB28.2	28.2	2	cryovial	N2-Tank	S	8	AK	41	42		28.10.20		0	5				Synovial Sarcoma		
+FLB29.2	29.2	5	cryovial	N2-Tank	S	2	CM	62	66		03.08.20		0	3				PDAC Stroma		
+FLB32.1	32.1	2	cryovial	N2-Tank	S	1	AK	58	59		03.06.20		0	3				CCC Stroma		
+FLB32.2	32.2	2	cryovial	N2-Tank	S	1	AK	25	26		08.06.20		0	0				CCC Stroma		
+FLB32.4	32.4	3	cryovial	N2-Tank	S	5	CH	72	74		23.10.20		0	8				CCC-2		
+FLB32.3.1	32.3	3	cryovial	N2-Tank	S	11	SS	66	68		16.12.20		0	3				CCC		
+FLB32.3.2	32.3	3	cryovial	N2-Tank			SS				16.12.20		0	3				CCC Stroma		
+FLB31.1	31.1	4	cryovial	N2-Tank	S	1	PAUCH	18	21		28.06.20		0	4				CCC2		
+FLB31.2.1	31.2	4	cryovial	N2-Tank	S	2	AK	67	70		12.08.20		0	5				CCC-2		
+FLB31.2.2	31.2	1	pellet	 -80 Freezer	 -	 -	AK	 -	 -		12.08.20		0	6				CCC-2		
+FLB31.3.1	31.3	3	cryovial	N2-Tank	S	5	CH	16	18		09.10.20		0	7				CCC-2		
+FLB31.3.2	31.3	4	pellet	 -80 Freezer	 -	 -	CH	 -	 -		09.10.20		0	7				CCC-2		
+FLB30.1.1	30.1	2	cryovial	N2-Tank	S	5	CH	14	15		09.10.20		0	7				CCC-1		
+FLB30.1.2	30.1	4	pellet	 -80 Freezer	 -	 -	CH	 -	 -		09.10.20		0	7				CCC-1		
+FLB30.2	30.2	3	cryovial	N2-Tank	S	5	CH	69	71		23.10.20		0	8				CCC-1		
+FLB33.1	33.1	3	cryovial	N2-Tank	S	6	AK	21	23		16.10.20		0	3				Angio SA		
+FLB36.1	36.1	2	cryovial	N2-Tank	S	6	AK	24	25		16.10.20		0	3				Myx. Liposarkom		
+FLB37.7	37.7	5	cryovial	N2-Tank	S	2	AK	57	61		03.08.20		0	3				CCC Stroma		
+FLB37.2.1	37.2	4	cryovial	N2-Tank	S	11	SS	6	9		09.12.20		0	8				CCC		
+FLB37.2.2	37.2	4	pellet	 -80 Freezer	 -	 -	SS	 -	 -		09.12.20		0	8				CCC		
+FLB37.3	37.3	5	cryovial	N2-Tank	S	11	SS	61	65		16.12.20		0	9				CCC		
+FLB37.4	37.4	5	cryovial	N2-Tank	A	11	SS	26	30		31.12.20		0	11				CCC		
+FLB37.5	37.5	5	cryovial	N2-Tank	A	11	SS	77	81		12.01.21		0	12				CCC		
+FLB37.8	37.8	2	cryovial	N2-Tank	A	12	SS	28	29		12.01.21		0	8				CCC Stroma		
+FLB38.1	38.1	4	cryovial	N2-Tank	S	4	CH	49	52		16.09.20		0	3				Thyroid		
+FLB38.2.1	38.2	6	cryovial	N2-Tank	S	6	CH	5	10		26.10.20		0	4				Thyroid		
+FLB38.2.2	38.2	4	pellet	 -80 Freezer	 -	 -	CH	 -	 -		26.10.20		0	4				Thyroid		
+FLB40.1	40.1	8	cryovial	N2-Tank	S	3	CH	50	57	3	24.08.20	12.11.20	0	3	CH		57	CCC		1
+FLB40.3	40.3	4	cryovial	N2-Tank	S	4	CH	29	32		15.09.20		0	4				CCC		
+FLB40.6	40.6	2	cryovial	N2-Tank	S	4	CH	53	54		16.09.20		0	4				Normal CCC		
+FLB40.5.1	40.5	3	cryovial	N2-Tank	S	6	CH	60	62		07.10.20		0	5				CCC		
+FLB40.5.2	40.5	4	pellet	 -80 Freezer	 -	 -	CH	 -	 -		07.10.20		0	5				CCC		
+FLB40.4	40.4	2	cryovial	N2-Tank	S	6	AK	58	59		23.10.20		0	6				CCC		
+FLB43.1	43.1	3	cryovial	N2-Tank	S	2	PAUCH	36	38		28.07.20		0	2				Ovary		
+FLB43.2	43.2	4	cryovial	N2-Tank	S	3	CH	46	49	3	13.08.20		0	3	CH		49	Ovary		1
+FLB43.3.1	43.3	2	cryovial	N2-Tank	S	4	CH	21	22		15.09.20		0	5				Ovary		
+FLB43.3.2	43.3	4	pellet	 -80 Freezer	 -	 -		 -	 -		15.09.20		0	5				Ovary		
+FLB43.4.1	43.4	4	cryovial	N2-Tank	S	5	CH	30	33		12.10.20		0	6				Ovary		
+FLB43.4.2	43.4	4	pellet	 -80 Freezer	 -	 -	CH	 -	 -		12.10.20		0	6				Ovary		
+FLB44.4.3	44.4	3	cryovial	N2-Tank	S	5	CH	75	77		23.10.20		0	6				PDAC		
+FLB44.4.4	44.4	2	pellet	 -80 Freezer	 -	 -	CH	 -	 -		23.10.20		0	6				PDAC		
+FLB44.3	44.3	4	cryovial	N2-Tank	S	7	VB	62	65		18.11.20		0	8				PDAC		
+FLB44.5	44.5	4	cryovial	N2-Tank	S	9	CH	76	79		03.12.20		0	9				PDAC		
+FLB44.1	44.1	2	cryovial	N2-Tank	S	10	SS	67	68		08.12.20		0	6				PDAC		
+FLB44.6	44.6	3	cryovial	N2-Tank	S	10	VB	44	46		08.12.20		0	9				PDAC		
+FLB44.2	44.2	4	cryovial	N2-Tank	S	12	SS	28	31		17.12.20		0	7				PDAC		
+FLB44.7.1	44.7	4	cryovial	N2-Tank	A	12	SS	35	38		04.01.21		0	10				PDAC		
+FLB44.7.2	44.7	3	pellet	 -80 Freezer	 -	 -	SS	 -	 -		04.01.21		0	10				PDAC		
+FLB44.8	44.8	3	cryovial	N2-Tank	A	12	SS	21	23		12.01.21		0	11				PDAC		
+FLB46.1	46.1	3	cryovial	N2-Tank	S	2	PAUCH	33	35		28.07.20		0	3				PDAC		
+FLB46.2	46.2	3	cryovial	N2-Tank	S	3	CH	14	16		31.08.20		0	5				PDAC		
+FLB46.3.1	46.3	3	cryovial	N2-Tank	S	4	CH	33	35		16.09.20		0	6				PDAC		
+FLB46.3.2	46.3	4	pellet	 -80 Freezer	 -	 -	CH	 -	 -		16.09.20		0	6				PDAC		
+FLB46.4.1	46.4	3	cryovial	N2-Tank	S	5	CH	19	21		09.10.20		0	7				PDAC		
+FLB46.4.2	46.4	4	pellet	 -80 Freezer	 -	 -	CH	 -	 -		09.10.20		0	7				PDAC		
+FLB47.1	47.1	4	cryovial	N2-Tank	S	7	VB	58	61		18.11.20		0	6				PDAC		
+FLB47.2.1	47.2	15	cryovial	N2-Tank	S	7 and 8	CH	78	7		23.11.20		0	8		Sengine		PDAC 2D		
+FLB47.2.2	47.2	4	pellet	 -80 Freezer	 -	 -	CH	 -	 -		23.11.20		0	8				PDAC 2D		
+FLB47.3	47.3	5	cryovial	N2-Tank	S	11	SS	51	55		16.12.20		0	9				PDAC 2D		
+FLB49.1	49.1	6	cryovial	N2-Tank	S	1	PAUCH	74	79		01.07.20		0	2				Osteosarcoma		
+FLB136.1	136.1	2	tissue	N2-Tank	C	11	CH	27	28		04.02.21		0	0				Synovial Sarcoma		
+FLB137.1	137.1	6	tissue	N2-Tank	C	11	CH	44	49		09.02.21		0	0				OsteoSA		
+FLB140.1	140.1	2	cryovial	N2-Tank	C	11	CH	23	24		03.02.21		0	1				Melanoma 2D		
+FLB140.2	140.2	2	cryovial	N2-Tank	C	11	CH	25	26		03.02.21		0	1				Melanoma 2D		
+FLB140.3.1	140.3	2	cryovial	N2-Tank			CH				22.02.21		0	1				Melanoma 3D		
+FLB140.3.2	140.3	2	cryovial	N2-Tank			CH				22.02.21		0	1				Melanoma 3D		
+FLB133.1	133.1	6	tissue	N2-Tank	A	11	CP	71	76		13.01.21		0	0				Myxosarcoma		
+FLB144.1	144.1	4	tissue	N2-Tank	A	12	CP	50	53		14.01.21		0	0				HCC		
+FLB134.1	134.1	3	tissue	N2-Tank	A	12	CP	54	56		18.01.21		0	0				Mesothel		
+FLB145.1	145.1	5	tissue	N2-Tank	A	12	CP	57	61		18.01.21		0	0				UPS		
+FLB146.1	146.1	6	tissue	N2-Tank	A	12	CH	62	66		19.01.21		0	0				CCC		
+FLB147.1.1	147.1	6	tissue	N2-Tank	C	3	CH	13	18		21.01.21		0	0				Sarcoma		
+FLB147.1.2	147.1	5	cryovial	other	 -	 -	AK	 -	 -		19.02.21		0	1				UPS		
+FLB135.1	135.1	3	tissue	N2-Tank	C	3	CH	22	24		26.01.21		0	0				Melanoma		
+FLB149.1	149.1	2	tissue	N2-Tank	C	3	CP	25	26		26.01.21		0	0				CCC		
+FLB150.1.1	150.1	3	tissue	N2-Tank	C	3	CH	27	29		28.01.21		0	0				Sarcoma		
+FLB150.1.2	150.1	4	tissue	N2-Tank	C	3	CH	30	33		28.01.21		0	0				Sarcoma		
+FLB150.2	150.2	2	cryovial	N2-Tank	C	11	VB	32	33		09.02.21		0	1				Sarcoma		
+FLB150.3	150.3	6	cryovial	N2-Tank	C	11	CH	50	55		12.02.21		0	2				Sarcoma		
+FLB151.1	151.1	12	tissue	N2-Tank	C	3	CH	58	69		02.02.21		0	0				Colon		
+FLB158.1	158.1	5	cryovial	N2-Tank	S	10	AK	12	16		02.12.20		0	3				Hund		
+FLB159.1	159.1	5	cryovial	N2-Tank	S	10	AK	17	21		02.12.20		0	3				Hund		
+FLB160.1	160.1	4	tissue	N2-Tank	S	7	CH	22	25		06.11.20		0	0				Sarcoma		
+FLB160.2	160.2	3	cryovial	N2-Tank	S	11	CH	3	5		10.12.20		0	2				Sarcoma		
+FLB162.1	162.1	5	cryovial	N2-Tank	S	1	AK	31	35		09.07.20		0	6						
+FLB167.1	167.1	4	cryovial	N2-Tank	S	12	CH	62	65		29.12.20		0	4				Lung		
+FLB167.2	167.2	4	cryovial	N2-Tank	C	3	VB	1	4		20.01.21		0	5				Lung		
+FLB167.3.1	167.3	3	cryovial	N2-Tank	C	3	CH	19	21		26.01.21		0	5				Lung		
+FLB167.3.2	167.3	1	pellet	 -80 Freezer	 -	 -	CH	 -	 -		26.01.21		0	5				Lung		
+FLB170.1	170.1	1	cryovial	N2-Tank	A	11	VB	46	46		05.01.21		0	2				Ovary		
+FLB171.1	171.1	4	cryovial	N2-Tank	S	4	CH	23	26		15.09.20		0	1				Ovary		
+FLB171.2	171.2	4	cryovial	N2-Tank	S	44383	VB	81	3		03.11.20		0	2				Ovary		
+FLB175.2.1	175.2	3	cryovial	N2-Tank	S	5	CH	78	80		26.10.20		0	2				Lung		
+FLB175.2.2	175.2	4	pellet	 -80 Freezer	 -	 -	CH	 -	 -		26.10.20		0	2				Lung		
+FLB175.1	175.1	6	cryovial	N2-Tank	S	8	VB	17	22		24.11.20		0	3				Lung		
+FLB177.1.1	177.1	1	pellet	 -80 Freezer	 -	 -	VB	 -	 -		02.02.21		0	6				Lung		
+FLB177.1.2	177.1	4	cryovial	N2-Tank	C	11	VB	1	4		02.02.21		0	6				Lung		
+FLB180.1	180.1	4	cryovial	N2-Tank	S	10	VB	49	52		08.12.20		0	4				Breast		
+FLB180.2	180.2	4	cryovial	N2-Tank	S	11	SS	39	42		16.12.20		0	5				Breast		
+FLB180.3	180.3	8	cryovial	N2-Tank	A	11	VB	5	12		30.12.20		0	6				Breast		
+FLB181.1	181.1	4	cryovial	N2-Tank	S	6	CH	65	68		27.10.20		0	1				Ovary		
+FLB181.2.1	181.2	2	cryovial	N2-Tank	S	7	SS	32	33		16.11.20		0	2				Ovary		
+FLB181.2.2	181.2	4	pellet	 -80 Freezer	 -	 -	SS	 -	 -		16.11.20		0	2				Ovary		
+FLB181.3	181.3	3	cryovial	N2-Tank	S	7	VB	66	68		18.11.20		0	2				Ovary		
+FLB183.1	183.1	4	cryovial	N2-Tank	S	9	CH	40	43		01.12.20		0	4				PDAC		
+FLB183.2	183.2	4	cryovial	N2-Tank	S	11	KMU	31	34		15.12.20		0	5				PDAC		
+FLB183.3	183.3	3	cryovial	N2-Tank	S	11	CP	77	79		22.12.20		0	6				PDAC		
+FLB183.4	183.4	3	cryovial	N2-Tank	S	12	CH	37	39		28.12.20		0	7				PDAC		
+FLB183.5.1	183.5	3	cryovial	N2-Tank	A	12	SS	39	41		04.01.21		0	8				PDAC		
+FLB183.5.2	183.5	3	pellet	 -80 Freezer	 -	 -	SS	 -	 -		04.01.21		0	8				PDAC		
+FLB183.6	183.6	4	cryovial	N2-Tank	A	12	SS	46	49		14.01.21		0	9				PDAC		
+FLB183.7.1	183.7	4	cryovial	N2-Tank	C	3	SS	50	53		22.01.21		0	10				PDAC		
+FLB183.7.2	183.7	3	pellet	 -80 Freezer	 -	 -	SS	 -	 -		22.01.21		0	10				PDAC		
+FLB188.1	188.1	4	cryovial	N2-Tank	S	9	CH	36	39		01.12.20		0	4				Lung		
+FLB188.2.1	188.2	3	cryovial	N2-Tank	S	10	CH	33	35		07.12.20		0	5				Lung		
+FLB188.2.2	188.2	4	pellet	 -80 Freezer	 -	 -	CH	 -	 -		07.12.20		0	5				Lung		
+FLB188.3	188.3	7	cryovial	N2-Tank	S	11	CH	24	30		15.12.20		0	6				Lung		
+FLB189.1	189.1	4	cryovial	N2-Tank	S	11	SS	35	38		16.12.20		0	2				CUP		
+FLB189.2	189.2	4	cryovial	N2-Tank	S	12	CH	40	43		28.12.20		0	3				CUP		
+FLB189.3.1	189.3	4	cryovial	N2-Tank	A	11	CH	61	64		11.01.21		0	4				CUP		
+FLB189.3.2	189.3	1	pellet	 -80 Freezer	 -	 -	CH	 -	 -		11.01.21		0	4				CUP		
+FLB189.4.1	189.4	4	cryovial	N2-Tank	A	12	VB	75	78		20.01.21		0	5				CUP		
+FLB189.4.2	189.4	1	pellet	 -80 Freezer	 -	 -	VB	 -	 -		20.01.21		0	5				CUP		
+FLB189.5.1	189.5	4	cryovial	N2-Tank	C	3	VB	73	76		02.02.21		0	6				CUP		
+FLB189.5.2	189.5	1	pellet	 -80 Freezer	 -	 -	CH	 -	 -		03.02.21		0	6				CUP		
+FLB189.6	189.6	8	cryovial	N2-Tank	C	11	CH	72	79		18.02.21		0	7				CUP		
+FLB190.1	190.1	3	cryovial	N2-Tank	A	12	VB	79	81		20.01.21		0	4				CCC		
+FLB190.2	190.2	4	cryovial	N2-Tank	C	3	CH	34	37		28.01.21		0	5				CCC		
+FLB190.3.1	190.3	1	pellet	 -80 Freezer	 -	 -	VB	 -	 -		02.02.21		0	5				CCC		
+FLB190.3.2	190.3	4	cryovial	N2-Tank	C	3	VB	77	80		02.02.21		0	5				CCC		
+FLB192.1	192.1	4	cryovial	N2-Tank	C	11	VB	40	43		09.02.21		0	3				CUP		
+FLB193.1.1	193.1	3	cryovial	N2-Tank	S	7	CH	34	36		17.11.20		0	0				Kleinzeller		
+FLB193.1.2	193.1	3	cryovial	N2-Tank	S	7	CH	37	39		17.11.20		0	0				Kleinzeller		
+FLB193.2.1	193.2	4	cryovial	N2-Tank	S	9	CH	26	29		30.11.20		0	0				Kleinzeller		
+FLB193.2.2	193.2	4	cryovial	N2-Tank	S	9	CH	30	33		30.11.20		0	0				Kleinzeller		
+FLB193.2.3	193.2	4	pellet	 -80 Freezer	 -	 -	CH	 -	 -		30.11.20		0	0				Kleinzeller		
+FLB193.2.4	193.2	4	pellet	 -80 Freezer	 -	 -	CH	 -	 -		30.11.20		0	0				Kleinzeller		
+FLB195.1	195.1	3	cryovial	N2-Tank	A	11	VB	43	45		05.01.21		0	2				PDAC		
+FLB195.2	195.2	4	cryovial	N2-Tank	A	12	SS	42	45		14.01.21		0	3				PDAC		
+FLB195.3.1	195.3	4	cryovial	N2-Tank	C	3	SS	42	45		22.01.21		0	4				PDAC		
+FLB195.3.2	195.3	3	pellet	 -80 Freezer	 -	 -	SS	 -	 -		22.01.21		0	4				PDAC		
+FLB195.4	195.4	3	cryovial	N2-Tank			SS				05.02.21		0	6				PDAC		
+FLB197.1	197.1	4	cryovial	N2-Tank	S	2	PAUCH	17	20		21.07.20		0	4				Lung		
+FLB197.2	197.2	3	cryovial	N2-Tank	S	2	CH	79	81		10.08.20		0	4				Lung		
+FLB197.3.1	197.3	3	cryovial	N2-Tank	S	5	CH	81	83		26.10.20		0	6				Lung		
+FLB197.3.2	197.3	4	pellet	 -80 Freezer	 -	 -	CH	 -	 -		26.10.20		0	6				Lung		
+FLB198.1	198.1	4	cryovial	N2-Tank	S	2	AK	75	78		12.08.20		0	3				Lung		
+FLB198.2.1	198.2	2	cryovial	N2-Tank	S	6	CH	3	4		26.10.20		0	6				Lung		
+FLB198.2.2	198.2	4	pellet	 -80 Freezer	 -	 -	CH	 -	 -		26.10.20		0	6				Lung		
+FLB201.1	201.1	2	cryovial	N2-Tank	S	5	CH	44	45		20.10.20		0	4				Breast		
+FLB201.2	201.2	4	cryovial	N2-Tank	S	7	VB	9	12		03.11.20		0	5				Breast		
+FLB202.1	202.1	4	cryovial	N2-Tank	S	2	PAUCH	39	42		28.07.20		0	3				Ovary		
+FLB202.2.1	202.2	2	cryovial	N2-Tank	S	3	CH	62	63		13.08.20		0	4				Ovary		
+FLB202.2.2	202.2	1	pellet	 -80 Freezer	 -	 -		 -	 -		13.08.20		0	4				Ovary		
+FLB202.3	202.3	3	cryovial	N2-Tank	S	3	CH	43	45		26.08.20		0	5				Ovary		
+FLB202.4.1	202.4	2	cryovial	N2-Tank	S	4	CH	27	28		15.09.20		0	6				Ovary		
+FLB202.4.2	202.4	4	pellet	 -80 Freezer	 -	 -		 -	 -		15.09.20		0	6				Ovary		
+FLB203.1	203.1	6	cryovial	N2-Tank	S	8	VB	11	16		24.11.20		0	4				Lung		
+FLB204.1	204.1	5	cryovial	N2-Tank	S	1	PAUCH	62	66		30.06.20		0	0				SCLC		
+FLB205.1	205.1	2	cryovial	N2-Tank	S	3	CH	12	13		31.08.20		0	2				Ovary		
+FLB205.2	205.2	3	cryovial	N2-Tank	S	4	CH	46	48		16.09.20		0	3				Ovary		
+FLB205.3.1	205.3	2	cryovial	N2-Tank	S	6	CH	63	64		27.10.20		0	4				Ovary		
+FLB205.3.2	205.3	2	pellet	 -80 Freezer	 -	 -	CH	 -	 -		27.10.20		0	4				Ovary		
+FLB206.1	206.1	4	cryovial	N2-Tank	S	2	AK	71	74		23.07.20		0	5				Lung		
+FLB210.1	210.1	4	cryovial	N2-Tank	C	11	CP	13	16		02.02.21		0	0				Lung Adeno		

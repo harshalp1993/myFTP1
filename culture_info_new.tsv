@@ -1,0 +1,357 @@
+1	1	Tumor 	28.09.20		0		"GHM, CHM, CHK"	CUP	3D	Terminated	25.10.20	No Growth						
+1	2	Tumor 	24.03.20		7		GHM	PDAC	3D	Terminated	11.08.20	Evaporated Medium	
+2	2	Tumor 	24.03.20		5		GHM	PDAC	3D	Frozen	10.08.20		
+3	2	Stroma	24.03.20		4		GHM	PDAC	2D	Frozen	13.06.20		
+4	2	Stroma	24.03.20		5		GHM	PDAC	2D	Frozen	07.09.20		
+5	2	Stroma	24.03.20		3		GHM	PDAC	2D	Frozen	20.07.20		
+6	2	Stroma	24.03.20		6		GHM	PDAC	2D	Frozen	16.12.20		
+1	3	Tumor 	18.03.20		3			Spindle cell sarcoma	2D	Banking completed	16.10.20		
+1	4	Tumor 	05.05.20		0			Peritoneal Carcinomatose		Terminated	05.05.20	No Tumor	
+1	5	Tumor 	23.06.20		6			Peritoneal Carcinomatose	3D	Terminated	13.12.20	No Growth	
+1	7	Tumor 	20.10.20		0		GHM	CRC	3D	Terminated	12.06.20	No Growth	
+1	8	Tumor 	21.10.20		4		CHM	PlattenCA	3D	Banking completed	28.12.20	 -	
+1	9	Tumor 	28.10.20		0		"GHM, CHM, CHK"	HCC	3D	Terminated	29.11.20	No Growth	
+2	9	Tumor 	28.10.20		0		"GHM, CHM, CHK"	HCC	2D	Terminated	29.11.20	No Growth	
+1	11	Tumor 	28.09.20		4		CHK	CUP	3D	Frozen	18.11.20	 -	
+2	11	Tumor 	28.09.20		5		CHK	CUP	3D	Frozen	26.11.20		
+3	11	Tumor 	28.09.20		6		CHK	CUP	3D	Frozen	12.08.20		
+4	11	Tumor 	28.09.20		7		CHK	CUP	3D	Banking completed	28.12.20		
+3	12	Tumor 	29.10.20		7		GHM	CRC	3D	Rebanked	12.07.20		
+2	13	Tumor 	29.10.20			5	GHM	CRC	3D	Rebanked	12.03.20		
+2	14	Tumor 	12.08.20		2		CHK	SFT 2D	2D	Frozen	31.12.20		
+3	14	Tumor 	12.08.20		2		CHK	SFT 2D	2D	Banking completed	21.01.21		
+4	14	Tumor 	12.08.20		3		CHK	SFT 2D	2D	Banking completed	21.01.21		
+1	15	Tumor 	12.10.20		4		GHM	PDAC	3D	Frozen	29.01.21		
+2	21	Tumor 	18.12.20		2		CHK	Baby	2D	Frozen	14.01.21		
+3	21	Tumor 	18.12.20		2		CHK	Baby	2D	Frozen	20.01.21		
+4	21	Tumor 	18.12.20		2		CHK	Baby	2D	Frozen	21.01.21		
+5	21	Tumor 	18.12.20		2		GHM	Baby	2D	Frozen	02.12.21		
+2	22	Tumor 	21.12.20		3		CHK	Sarcoma	2D	Frozen	02.02.21		
+3	22	Tumor 	21.12.20		0		CHK	Sarcoma	2D	Banking completed	19.02.21		
+1	23	Tumor 	22.12.20		0		GHM	Ampullary Carcinoma 	3D	Frozen	22.01.21		
+2	23	Tumor 	22.12.20		3		GHM	Ampullary Carcinoma 	3D	Frozen	02.05.21		
+1	25	Tumor 	23.12.20		3		GHM	PDAC	3D	Frozen	22.01.21		
+2	25	Tumor 	23.12.20		5		GHM	PDAC	3D	Frozen	02.05.21		
+1	27	Tumor 	02.04.20		5			NTRK	2D	Frozen	03.03.20		
+2	27	Tumor 	02.04.20		7			NTRK	2D	Frozen	16.04.20		
+3	27	Tumor 	02.04.20		16			NTRK	2D	Frozen	07.08.20		
+4	27	Tumor 	02.04.20		18			NTRK	2D	Frozen	18.08.20		   
+5	27	Tumor 	02.04.20		6			NTRK	2D	Frozen	29.10.20		
+6	27	Tumor 	02.04.20		30		RPMI 10% FBS	NTRK	2D	Banking completed	12.09.20		
+1	28	Tumor 	25.03.20		6		DMEM 10% FBS	SS	2D	Frozen	07.01.20		
+2	28	Tumor 	25.03.20		5		DMEM 10% FBS	SS	2D	Banking completed	28.10.20		
+2	29	Tumor 	15.04.20		3		GHM	PDAC	3D	Terminated	30.09.20	No Growth	
+1	30	Tumor 	16.04.20		7		GHM	CCC	3D	frozen	10.09.20		
+2	30	Tumor 	16.04.20		8		GHM	CCC	3D	Banking completed	23.10.20		
+1	31	Tumor 	16.04.20		4		GHM	CCC	3D	Frozen	28.06.20		
+2	31	Tumor 	16.04.20		5		GHM	CCC	3D	Frozen	08.12.20		
+3	31	Tumor 	16.04.20		7		GHM	CCC	3D	Frozen	10.09.20		
+4	31	Tumor 	16.04.20		8		GHM	CCC	3D	Banking completed	23.10.20		
+2	32	Stroma	16.04.20		3		GHM	CCC	3D	Frozen	06.03.20		
+3	32	Stroma	16.04.20		3		GHM	CCC	3D	Frozen	06.08.20		
+4	32	Stroma	16.04.20		3		GHM	CCC	3D	Banking completed	16.12.20		
+1	33	Tumor 	28.04.20		3			Angio sarcoma	2D	Banking completed	16.10.20		
+1	35	Tumor 	05.05.20		5			Peritoneal Carcinomatose	3D	Terminated	10.05.20		
+1	36	Tumor 	05.11.20		3			Myoxoid Lipo	2D	Banking completed	16.10.20		
+1	37	Tumor 	05.12.20		6		GHM	CCC	3D	Terminated	23.10.20	Evaporated Medium	
+2	37	Tumor 	05.12.20		12		GHM	CCC	3D	Frozen	01.06.21		
+3	37	Tumor 	05.12.20		12		GHM	CCC	3D	Banking completed	01.12.21		
+4	37	Tumor 	05.12.20		11		GHM	CCC	3D	Frozen	31.12.20		
+5	37	Tumor 	05.12.20		9		GHM	CCC	3D	Frozen	16.12.20		
+6	37	Tumor 	05.12.20		8		GHM	CCC	3D	Frozen	12.09.20		
+7	37	Stroma	05.12.20		8		GHM	CCC	2D	Frozen	01.12.21		
+8	37	Stroma	05.12.20		3		GHM	CCC	2D	Frozen	08.03.20		
+1	38	Tumor 	13.05.20		3			Tyroid Papillary	3D	Frozen	16.09.20		
+2	38	Tumor 	13.05.20		4			Tyroid Papillary	3D	Banking completed	26.10.20		
+1	39	Tumor 	19.05.20		4		GHM	CRC	3D	Terminated	30.09.20		
+1	40	Tumor 	19.05.20		3		GHM	CCC	3D	Frozen	24.08.20		
+2	40	Normal	19.05.20		4		GHM	CCC	3D	Frozen	16.09.20		
+3	40	Tumor 	19.05.20		4		GHM	CCC	3D	Frozen	15.09.20		
+4	40	Tumor 	19.05.20		6		GHM	CCC	3D	Frozen	23.10.20		
+5	40	Tumor 	19.05.20		5		GHM	CCC	3D	Banking completed	10.07.20		
+6	40	Tumor 	19.05.20		6		GHM	CCC	3D	Rebanked	17.12.20		
+1	43	Tumor 	26.05.20	n.a.	2			AdnexCA	3D	Frozen	28.07.20		
+2	43	Tumor 	26.05.20		3			AdnexCA	3D	Frozen	13.08.20		
+3	43	Tumor 	26.05.20		5			AdnexCA	3D	Frozen	15.09.20		
+4	43	Tumor 	26.05.20		6			AdnexCA	3D	Banking completed	10.12.20		
+5	43	Tumor 	26.05.20			4		AdnexCA	3D	Terminated	29.11.20	No Growth	
+2	44	Tumor 	26.05.20		11		GHM	PDAC	3D	Frozen	01.12.21		
+3	44	Tumor 	26.05.20		10		GHM	PDAC	3D	Frozen	01.04.21		
+4	44	Tumor 	26.05.20		6		GHM	PDAC	3D	Frozen	23.10.20		
+5	44	Tumor 	26.05.20		8		GHM	PDAC	3D	Frozen	18.11.20		
+6	44	Tumor 	26.05.20		9		GHM	PDAC	3D	Frozen	12.03.20		
+7	44	Stroma	10.04.20		6		GHM	PDAC	2D	Frozen	12.08.20		
+8	44	Tumor 	26.05.20		9		GHM	PDAC	3D	Frozen	12.08.20		
+9	44	Stroma	10.04.20		7		GHM	PDAC	2D	Frozen	17.12.20		
+1	46	Tumor 	06.02.20		3		GHM	PDAC	3D	Frozen	28.07.20		
+2	46	Tumor 	06.02.20		5		GHM	PDAC	3D	Frozen	31.08.20		
+3	46	Tumor 	06.02.20		6		GHM	PDAC	3D	Frozen	16.09.20		
+4	46	Tumor 	06.02.20		7		GHM	PDAC	3D	Banking completed	10.09.20		
+1	47	Tumor 	06.02.20		6		GHM	PDAC	3D	Frozen	18.11.20		
+2	47	Tumor 	10.07.20		9		GHM	PDAC	2D	Frozen	16.12.20		
+3	47	Tumor 	10.07.20		8		GHM	PDAC	2D	Frozen	23.11.20		
+1	49	Tumor 	06.06.20		2		GHM	OsteoSA	2D	Frozen	07.01.20		
+2	49	Tumor 	06.06.20		2		GHM	OsteoSA	2D	Terminated	07.09.20		
+1	50	Tumor 	06.05.20		4			Peritoneal Carcinomatose	3D	Frozen	08.04.20		
+2	50	Tumor 	06.05.20		4			Peritoneal Carcinomatose	3D	Frozen	24.07.20		
+3	50	Tumor 	06.05.20		7			Peritoneal Carcinomatose	3D	Frozen	24.08.20		
+4	50	Tumor 	06.05.20		8			Peritoneal Carcinomatose	3D	Banking completed	16.09.20		
+1	51	Tumor 	06.09.20		3			UPS	2D	Frozen	07.01.20		
+2	51	Tumor 	06.09.20		4			UPS	2D	Frozen	14.09.20		
+3	51	Tumor 	06.09.20		3			UPS	2D	Frozen	14.10.20		
+4	51	Tumor 	06.09.20		5			UPS	2D	Frozen	14.10.20		
+5	51	Tumor 	06.09.20		6			UPS	2D	Frozen	28.10.20		
+1	54	Tumor 	16.06.20		5		GHM	PDAC	3D	Terminated	22.10.20	Evaporated Medium	
+1	54	Stroma	25.09.20		5		DMEM	PDAC	2D	Terminated	25.09.20	No Growth	
+2	54	Tumor 	16.06.20		3		GHM	PDAC	3D	Frozen	26.08.20		
+3	54	Tumor 	17.06.20		3		GHM	PDAC	3D	Frozen	24.08.20		
+4	54	Tumor 	18.06.20		4		GHM	PDAC	3D	Frozen	16.09.20		
+1	55	Tumor 	16.06.20		0			Peritoneal Carcinomatose		Terminated	16.06.20	No Tumor	
+1	60	Tumor 	30.06.20		4		CHK	Peritoneal Carcinomatose	3D	Terminated	12.06.20	No Growth	
+1	63	Tumor 	06.02.20					Peritoneal Carcinomatose		Terminated	06.02.20	No Tumor	
+1	65	Tumor 	15.07.20		2			NET	3D	Frozen	16.09.20		
+2	65	Tumor 	15.07.20		3			NET	3D	Banking completed	23.10.20		
+1	66	Tumor 	15.07.20		0			CRC	3D	Terminated	14.10.20	No Tumor	
+1	68	Tumor 	29.07.20		1		GHM	CRC	3D	Banking completed	08.10.20		
+1	69	Tumor 	31.07.20		3		GHM	CRC	3D	Terminated	11.08.20	Evaporated Medium	
+2	70	Tumor 	08.04.20		3		GHM	Peritoneal Carcinomatose	3D	Frozen	23.09.20		
+3	70	Tumor 	08.04.20		4		GHM	Peritoneal Carcinomatose	3D	Frozen	10.07.20		
+4	70	Tumor 	08.04.20		7		GHM	Peritoneal Carcinomatose	3D	Banking completed	12.07.20		
+1	71	Tumor 	08.04.20		4		GHM	CCC	3D	Frozen	11.10.20		
+2	71	Tumor 	08.04.20		5		GHM	CCC	3D	Frozen	24.11.20		
+3	71	Stroma	08.04.20		4		GHM	CCC	2D	Banking completed	16.12.20		
+4	71	Tumor 	08.04.20		6		GHM	CCC	3D	Banking completed	15.12.20		
+2	74	Tumor 	08.06.20		2			Baby Tumor	2D	Frozen	18.08.20		
+3	74	Tumor 	08.06.20		3			Baby Tumor	2D	Frozen	31.08.20		
+4	74	Tumor 	08.06.20		3			Baby Tumor	2D	Frozen	14.09.20		
+5	74	Tumor 	08.06.20		4			Baby Tumor	2D	Frozen	18.09.20		
+2	75	Tumor 	08.07.20		3		DMEM	Sarcoma	2D	Frozen	26.01.21		
+1	76	Tumor 	08.11.20		3		GHM	PDAC	3D	Frozen	10.08.20		
+2	76	Tumor 	08.11.20		3		GHM	PDAC	3D	Frozen	23.10.20		
+3	76	Tumor 	08.11.20		7		GHM	PDAC	3D	Frozen	18.11.20		
+4	76	Tumor 	08.11.20		5		GHM	PDAC	3D	Frozen	11.03.20		
+5	76	Tumor 	08.11.20		8		GHM	PDAC	3D	Frozen	12.01.20		
+6	76	Tumor 	08.11.20		10		GHM	PDAC	3D	Banking completed	16.12.20		
+7	76	Tumor 	08.11.20		7		GHM+WRN with FBS	PDAC	3D	Frozen	16.12.20		
+8	76	Tumor 	08.11.20		7		GHM+WRN w/o FBS	PDAC	3D	Frozen	16.12.20		
+1	77	Tumor 	18.08.20		5		CHM	Breast	3D	Frozen	01.05.21		
+2	77	Tumor 	18.08.20		3		CHM	Breast	3D	Frozen	30.11.20		
+3	77	Tumor 	18.08.20		6		CHM	Breast	3D	Banking completed	24.02.20		
+1	78	Tumor 	27.08.20		5		1% FBS	Chondrosarcoma	2D	Frozen	19.11.20		
+2	78	Tumor 	27.08.20		5		SHM	Chondrosarcoma	2D	Frozen	19.11.20		
+3	78	Tumor 	27.08.20		3		CHK	Chondrosarcoma	2D	Frozen	11.05.20		
+4	78	Tumor 	27.08.20		6		1% FBS	Chondrosarcoma	2D	Frozen	24.11.20		
+5	78	Tumor 	27.08.20		6		SHM	Chondrosarcoma	2D	Frozen	24.11.20		
+1	79	Tumor 	27.08.20		6		1%FBS	Chondrosarcoma	2D	Frozen	19.11.20		
+2	79	Tumor 	27.08.20		6		SHM	Chondrosarcoma	2D	Frozen	19.11.20		
+3	79	Tumor 	27.08.20		3			Chondrosarcoma	2D	Frozen	29.10.20		
+4	79	Tumor 	27.08.20		7		1%FBS	Chondrosarcoma	2D	Frozen	24.11.20		
+5	79	Tumor 	27.08.20		7		SHM	Chondrosarcoma	2D	Frozen	24.11.20		
+1	80	Tumor 	09.02.20		7		CHM	Sinunasal	3D	Frozen	01.05.21		
+2	80	Tumor 	09.02.20		5		CHM	Sinunasal	3D	Frozen	12.08.20		
+3	80	Tumor 	09.02.20		6		CHM	Sinunasal	3D	Frozen	16.12.20		
+4	80	Tumor 	09.02.20		4		CHM	Sinunasal	3D	Frozen	18.11.20		
+5	80	Tumor 	09.02.20		8		CHM	Sinunasal	3D	Banking completed	24.02.21		
+1	82	Tumor 	09.09.20		0		GHM	CRC	3D	Terminated	09.10.20		
+2	82	Tumor 	09.09.20		0		GHM	CRC	3D	Terminated	09.10.20		
+1	81	Tumor 	09.04.20		3			Jaw	2D	Frozen	21.10.20		
+2	81	Tumor 	09.04.20		4			Jaw	2D	Banking completed	11.05.20		
+3	83	Stroma	13.10.20		4		DMEM	PDAC	2D	Frozen	01.12.21		
+4	83	Stroma	13.10.20		3		DMEM	PDAC	2D	Frozen	16.12.20		
+1	84	Tumor 	09.09.20		4		CHM	Sinunasales CA	3D	Banking completed	22.10.20		
+2	84	Tumor 	09.09.20		4		CHK	Sinunasales CA	3D	Banking completed	22.10.20		
+3	84	Tumor 	09.09.20		5		CHM	Sinunasales CA	3D	Rebanked	12.03.20		
+4	84	Tumor 	09.09.20		5		CHM	Sinunasales CA	3D	Rebanked	17.02.21		
+5	84	Tumor 	09.09.20		3		CHM	Sinunasales CA	3D	Frozen	10.12.20		
+1	85	Tumor 	09.12.20		2		CHK	Sinunsasal basaloide Platte	3D	Frozen	27.10.20		
+2	85	Tumor 	09.12.20		2		CHM	Sinunsasal basaloide Platte	3D	Frozen	28.10.20		
+3	85	Tumor 	09.12.20			4	CHK	Sinunsasal basaloide Platte	3D	Thawed and Rebanked	02.03.21		
+4	85	Tumor 	09.12.20		4		CHM	Sinunsasal basaloide Platte	3D	Frozen	12.02.20		
+5	85	Tumor 	09.12.20		3		CHM	Sinunsasal basaloide Platte	3D	Frozen	11.10.20		
+6	85	Tumor 	09.12.20		5		CHM	Sinunsasal basaloide Platte	3D	Banking completed	12.02.20		
+1	86	Tumor 	15.09.20		0		GHM	CRC	3D	Terminated	29.09.20	Contamination	
+1	87	Tumor 	16.09.20					ovary	Tissue	Frozen	16.09.20		
+2	87	Tumor 	16.09.20		0			ovary		Terminated	10.05.20	No Growth	
+1	88	Tumor 	22.09.20					Carcinoma lung	Tissue	Frozen	22.09.20		
+2	88	Tumor 	22.09.20		0		"CHM, CHK"	Carcinoma lung	3D	Terminated	10.05.20	No Growth	
+2	89	Stroma	25.09.20		7		GHM	CCC	2D	Frozen	01.12.21		
+4	89	Tumor 	25.09.20		3		GHM	CCC	3D	Frozen	18.11.20		
+5	89	Tumor 	25.09.20		4		GHM	CCC	3D	Frozen	12.08.20		
+6	89	Tumor 	25.09.20		6		GHM	CCC	3D	Frozen	01.12.21		
+1	90	Tumor 	25.09.20		3		GHM	CRC 	3D	Terminated	01.10.21	Evaporated Medium	
+2	90	Normal	30.09.20		1		GHM	CRC 	3D	Terminated	25.10.20	No Growth	
+1	91	Tumor 	10.01.20		0		GHM	PDAC	3D	Terminated	11.08.20	No Growth	
+1	92	Tumor 	10.02.20		1		"GHM, CHM, CHK"	HCC	3D	Terminated	29.11.20	No Growth	
+1	93	Tumor 	10.07.20					Sarcoma	Tissue	Frozen	10.07.20		
+2	93	Tumor 	10.07.20		0			Sarcoma	2D	Terminated	14.10.20	No Growth	
+1	94	Tumor 	10.07.20					Liver	Tissue	Frozen	10.07.20		
+2	94	Tumor 	10.07.20		3		GHM	Liver	3D	Terminated	13.12.20	No Growth	
+1	95	Tumor 	10.10.20					Sa	Tissue	Frozen	10.10.20		
+1	96	Tumor 	10.10.20		0			Leiomyosarcoma	2D	Terminated	14.10.20	"No Tumor, Contamination."	
+1	97	Tumor 	10.12.20					SA	Tissue	Frozen	10.12.20		
+1	98	Tumor 	15.10.20		0		GHM	HCC	3D	Terminated	25.10.20	No Growth	
+2	99	Tumor 	16.10.20		0		GHM	CRC	3D	Terminated	15.11.20	No Growth	
+1	100	Tumor 	20.10.20		4		CHK	Salivary Gland	3D	Frozen	01.12.21		
+2	100	Tumor 	20.10.20		3		CHK	Salivary Gland	3D	Frozen	30.12.20		
+3	100	Tumor 	20.10.20		5		CHK	Salivary Gland	3D	Frozen	28.01.21		
+4	100	Tumor 	20.10.20		5		CHK	Salivary Gland	3D	Banking completed	02.02.21		
+1	101	Tumor 	20.10.20		0		"CHM, CHK"	Testicle	3D	Terminated	11.01.20	No Growth	
+2	102	Normal	21.10.20		2		GHM	CRC	3D	Frozen	21.10.20		
+1	103	Tumor 	21.10.20					Melanoma	Tissue	Frozen	21.10.20		
+2	103	Tumor 	21.10.20		0		"CHM, CHK"	Melanoma	2D	Terminated	25.10.20	No Growth	
+3	103	Tumor 	21.10.20		0		"CHM, CHK"	Melanoma	3D	Terminated	11.01.20	No Growth	
+1	104	Tumor 	21.10.20					Ovary Sarcoma	Tissue	Frozen	21.10.20		
+2	104	Tumor 	21.10.20		0			Ovary Sarcoma		Terminated	21.10.20	No Growth	
+1	105	Tumor 	21.10.20					Leiomyosarcoma	Tissue	Frozen	21.10.20		
+2	105	Tumor 	21.10.20		0		"CHK,CHM,DMEM"	Leiomyosarcoma	3D	Terminated	11.01.20	No Growth	
+1	106	Tumor 	22.10.20		0		"CHM, CHK"	Testicle		Terminated	11.01.20		
+1	108	Tumor 	23.10.20		5		GHM	Magen	3D	Banking completed	01.05.21		
+2	108	Tumor 	23.10.20		3		GHM	Magen	3D	Frozen	15.12.20		
+3	108	Tumor 	23.10.20		4		GHM	Magen	3D	Frozen	28.12.20		
+1	109	Tumor 	21.10.20		5			Intima sarcoma 2D	2D	Rebanked	20.01.21		
+2	109	Tumor 	21.10.20		4			Intima sarcoma 2D	2D	Banking completed	12.02.20		
+3	109	Tumor 	21.10.20		3			Intima sarcoma 2D	2D	Rebanked	12.01.20		
+4	109	Tumor 	21.10.20		3			Intima sarcoma 2D	2D	Rebanked	29.11.20		
+5	109	Tumor 	21.10.20		4			Intima sarcoma 2D	2D	Rebanked	12.09.20		
+1	110	Tumor 	11.02.20		1		DMEM and CHM	Mesenchymales Chonrodsarcom	3D	Banking completed	01.04.21		
+2	110	Tumor 	11.02.20		0		DMEM and CHM	Mesenchymales Chonrodsarcom	3D	Frozen	29.11.20		
+1	111	Tumor 	28.10.20		4		GHM	HCC	3D	Frozen	24.02.20		
+1	112	Tumor 	28.10.20		0		"GHM, CHM, CHK"	HCC	2D	Terminated	11.01.20		
+1	113	Tumor 	28.10.20		3		CHM	Thymom	2D	Banking completed	12.08.20		
+1	114	Tumor 	11.04.20					HCC	Tissue	Frozen	11.04.20		
+2	114	Tumor 	11.04.20		0		GHM	HCC	3D	Terminated	11.04.20	No Growth	
+1	115	Tumor 	11.06.20					NET	Tissue	Frozen	11.06.20		
+2	115	Tumor 	11.06.20		1		"GHM, CHM, CHK"	NET	2D/3D	Terminated	13.12.20	No Growth	
+1	116	Tumor 	11.11.20		0		"CHM, CHK"	Mesothelioma	3D	Terminated	13.12.20	No Growth	
+1	117	Tumor 	11.11.20		0		"CHM, CHK"	NET	3D	Terminated	22.11.20	No Growth	
+1	118	Tumor 	16.11.20		5		GHM	Peritoneal Carcinomatose	3D	Banking completed	01.12.21		
+2	118	Tumor 	16.11.20		4		GHM	Peritoneal Carcinomatose	3D	Frozen	01.05.21		
+3	118	Tumor 	16.11.20		3		GHM	Peritoneal Carcinomatose	3D	Frozen	29.12.20		
+1	119	Tumor 	17.11.20					sa	Tissue	Frozen	17.11.20		
+1	120	Tumor 	19.11.20					SA	Tissue	Frozen	19.11.20		
+1	121	Tumor 	18.11.20		2		CHM	IMT 2D	2D	Banking completed	31.12.20		
+2	122	Normal	19.11.20		2		GHM	PDAC	3D	Banking completed	02.09.21		
+1	123	Tumor 	25.11.20					SA	Tissue	Frozen	25.11.20		
+1	124	Tumor 	26.11.20		0		GHM	Peritoneal Carcinomatose	3D	Terminated	01.03.21	No Tumor	
+1	125	Tumor 	12.12.20		1		DMEM	Giant cell tumor 2D	2D	Frozen	31.12.20		
+2	125	Tumor 	12.12.20		2		DMEM	Giant cell tumor 2D	2D	Banking completed	02.02.21		
+1	126	Tumor 	12.02.20		2			Leiomyosarcoma	2D	Frozen	02.09.21		
+2	126	Tumor 	12.02.20		3			Leiomyosarcoma	2D	Frozen	02.12.21		
+1	127	Tumor 	12.01.20					Leiomyosarcoma	Tissue	Frozen	12.01.20		
+1	128	Tumor 	12.02.20					Sa	Tissue	Frozen	12.02.20		
+1	129	Tumor 	12.04.20					SA	Tissue	Frozen	12.04.20		
+1	130	Tumor 	01.04.21					sa	Tissue	Frozen	01.04.21		
+1	131	Tumor 	01.05.21		0		CHK	Breast	2D	Terminated	17.01.21		
+1	132	Tumor 	01.06.21					Acinar cell CA	Tissue	Frozen	01.06.21		
+2	132	Tumor 	01.06.21		0		"GHM, CHM, CHK"	Acinar cell CA	2D/3D	Terminated	01.10.21	Contamination	
+1	136	Tumor 	02.04.21					Synovial Sarcoma	Tissue	Frozen	02.04.21		
+1	137	Tumor 	02.09.21					OsteoSA	Tissue	Frozen	02.09.21		
+1	140	Tumor 	01.12.21		1		CHK	Melanoma	3D	Banking completed	22.02.21		
+2	140	Tumor 	01.12.21		1		CHM	Melanoma	3D	Banking completed	22.02.21		
+3	140	Tumor 	01.12.21		1		CHM	Melanoma	2D	Banking completed	02.03.21		
+4	140	Tumor 	01.12.21		1		CHK	Melanoma	2D	Banking completed	02.03.21		
+1	141	Tumor 	01.12.21		1		GHM	CCC	3D	Terminated	17.01.21	Contamination	
+1	133	Tumor 	13.01.21					SA	Tissue	Frozen	13.01.21		
+1	142	Tumor 	13.01.21		0		"GHM, CHM, CHK"	HCA	2D	Terminated	24.01.21		
+1	143	Tumor 	13.01.21		4		GHM	CRC	3D	Frozen	24.02.21		
+1	144	Tumor 	14.01.21					HCC	Tissue	Frozen	14.01.21		
+2	144	Tumor 	14.01.21		0		"GHM, CHM, CHK"	HCC	3D	Terminated	24.01.21	No Growth	
+1	134	Tumor 	18.01.21					Mesothelioma	Tissue	Frozen	18.01.21		
+1	145	Tumor 	18.01.21					UPS	Tissue	Frozen	18.01.21		
+2	145	Tumor 	18.01.21		0		"DMEM, CHM, CHK"	UPS	2D	Terminated	31.01.20	No Growth	
+1	146	Tumor 	19.01.21					CCC	Tissue	Frozen	19.01.21		
+2	146	Tumor 	19.01.21		0		GHM	CCC	3D	Terminated	20.01.21	Contamination	
+1	147	Tumor 	22.01.21					SA	Tissue	Frozen	22.01.21		
+2	147	Tumor 	22.01.21		1		"CHK, DMEM"	SA	2D	Frozen	19.02.20		
+1	135	Tumor 	26.01.21					Melanoma	Tissue	Frozen	26.01.21		
+1	149	Tumor 	26.01.21					CCC	Tissue	Frozen	26.01.21		
+2	149	Tumor 	26.01.21		0		GHM	CCC	3D	Terminated	29.01.21	Contamination	
+1	150	Tumor 	28.01.21					Sarcoma	Tissue	Frozen	28.01.21		
+2	150	Tumor 	28.01.21		2		CHM	Sarcoma	2D	Frozen	02.09.21		
+3	150	Tumor 	28.01.21		2		DMEM	Sarcoma	2D	Frozen	02.12.21		
+1	151	Tumor 	02.02.21					CRC	Tissue	Frozen	02.02.21		
+2	151	Tumor 	02.02.21		2		GHM	CRC	3D	Frozen	24.02.21		
+1	155	Tumor 	28.09.20		0		"GHM, CHM, CHK"	CUP	3D	Terminated	25.10.20	No Growth	
+1	156	Tumor 	23.09.20		0		"GHM, CHM, CHK"	CUP	3D	Terminated	25.10.20	No Growth	
+1	158	Tumor 	24.09.20		3		DMEM 10% FBS	Hund	2D	Banking completed	12.02.20		
+1	159	Tumor 	30.10.20		3		DMEM 10% FBS	Hund	2D	Banking completed	12.02.20		
+1	161	Normal	12.03.20		4		GHM	Liver Mouse	3D	Frozen	30.12.20		
+2	161	Normal	12.03.20		5		GHM	Liver Mouse	3D	Frozen	01.12.21		
+2	161	Tumor 	25.03.20		6			SS 	2D	Banking completed	07.09.21		
+1	165	Tumor 	29.07.20		2			Lung	3D	Terminated	15.11.20	No Tumor	
+1	166	Tumor 	08.10.20		0			Lung	3D	Terminated	31.08.20	No Growth	
+1	167	Tumor 	08.09.20		4		CHM	Lung	3D	Frozen	29.12.20		
+2	167	Tumor 	08.09.20		5		CHM	Lung	3D	Frozen	20.01.21		
+3	167	Tumor 	08.09.20		5		CHM	Lung	3D	Banking completed	26.01.21		
+1	168	Tumor 	08.07.20		1			Lung	3D	Terminated	15.11.20	No Tumor	
+1	169	Tumor 	08.11.20		0			CUP	3D	Terminated	19.08.20	No Growth	
+1	170	Tumor 	08.11.20		2			Ovary	3D	Frozen	01.05.21		
+1	171	Tumor 	19.08.20		1			Ovary	3D	Frozen	15.09.20		
+2	171	Tumor 	19.08.20		2			Ovary	3D	Banking completed	11.03.20		
+1	173	Tumor 	27.08.20		0		CHM	lung	3D	Terminated	09.02.20		
+1	174	Tumor 	09.05.20		1			Lung	3D	Terminated	29.09.20		
+1	175	Tumor 	09.05.20		3		CHM	lung	3D	Banking completed	24.11.20		
+1	177	Tumor 	09.09.20		6			lung	3D	Banking completed	02.02.21		
+1	178	Tumor 	09.09.20		2			lung	3D	Terminated	11.04.20	No Tumor	
+1	179	Tumor 	16.09.20		0			CRC	3D	Terminated	10.05.20	No Growth	
+1	180	Tumor 	18.09.20		4		CHM	Breast	3D	Frozen	12.08.20		
+2	180	Tumor 	18.09.20		5		CHM	Breast	3D	Frozen	16.12.20		
+3	180	Tumor 	18.09.20		6		CHM	Breast	3D	Banking completed	30.12.20		
+1	181	Tumor 	22.09.20		1		CHK	Ovary	3D	Frozen	27.10.20		
+2	181	Tumor 	22.09.20		2		CHK	Ovary	3D	Frozen	16.11.20		
+3	181	Tumor 	22.09.20		2		CHK	Ovary	3D	Banking completed	18.11.20		
+1	182	Tumor 	22.09.20		2		CHK	tube fallopian	3D	Terminated	13.12.20	No Growth	
+1	183	Tumor 	22.09.20		4		GHM	PDAC	3D	Frozen	12.01.20		
+2	183	Tumor 	22.09.20		5		GHM	PDAC	3D	Frozen	15.12.20		
+3	183	Tumor 	22.09.20		6		GHM	PDAC	3D	Frozen	22.12.20		
+4	183	Tumor 	22.09.20		7		GHM	PDAC	3D	Frozen	28.12.20		
+5	183	Tumor 	22.09.20		8		GHM	PDAC	3D	Frozen	01.04.21		
+6	183	Tumor 	22.09.20		9		GHM	PDAC	3D	Frozen	14.01.21		
+7	183	Tumor 	22.09.20		10		GHM	PDAC	3D	Frozen	22.01.21		
+1	184	Tumor 	25.09.20		0			Lung	3D	Terminated	27.09.20	No Tumor	
+1	185	Tumor 	30.09.20		0		GHM	CRC	3D	Terminated	10.02.20	No Tumor	
+1	186	Tumor 	30.09.20		1		CHK	Breast	3D	Terminated	30.12.20	No Growth	
+1	187	Tumor 	10.02.20		0		CHM	Lung	3D	Terminated	10.05.20	No Tumor	
+1	188	Tumor 	10.02.20		4		CHM	Lung	3D	Frozen	12.01.20		
+2	188	Tumor 	10.02.20		5		CHM	Lung	3D	Frozen	12.07.20		
+3	188	Tumor 	10.02.20		6		CHM	Lung	3D	Frozen	15.12.20		
+1	189	Tumor 	10.02.20		2		CHM	CUP	3D	Frozen	16.12.20		
+2	189	Tumor 	10.02.20		3		CHM	CUP	3D	Frozen	28.12.20		
+3	189	Tumor 	10.02.20		4		CHM	CUP	3D	Frozen	01.11.21		
+4	189	Tumor 	10.02.20		5		CHM	CUP	3D	Frozen	20.01.21		
+5	189	Tumor 	10.02.20		6		CHM	CUP	3D	Frozen	02.02.21		
+6	189	Tumor 	10.02.20		0		CHM	CUP	3D	Banking completed	18.02.21		
+1	190	Tumor 	24.10.20		4		GHM	CCC	3D	Frozen	20.01.21		
+2	190	Tumor 	24.10.20		5		GHM	CCC	3D	Frozen	28.01.21		
+3	190	Tumor 	24.10.20		5		GHM	CCC	3D	Banking completed	02.02.21		
+1	192	Tumor 	11.06.20		3		CHK	CUP	3D	Banking completed	02.09.21		
+1	193	Tumor 	11.10.20		0		"CHM, CHK"	Kleinzeller	2D	Frozen	17.11.20		
+2	193	Tumor 	11.10.20		0		"CHM, CHK"	Kleinzeller	2D	Banking completed	30.11.20		
+1	194	Tumor 	11.10.20		0		"CHM, CHK"	Ovary	3D	Terminated	13.11.20	No Tumor	
+1	195	Tumor 	12.02.20		2		GHM	PDAC	3D	Frozen	01.05.21		
+2	195	Tumor 	12.02.20		3		GHM	PDAC	3D	Frozen	14.01.21		
+3	195	Tumor 	12.02.20		4		GHM	PDAC	3D	Frozen	22.01.21		
+4	195	Tumor 	12.02.20		6		GHM	PDAC	3D	Frozen	02.05.21		
+1	197	Tumor 	22.04.20		4			Lung	3D	Frozen	21.07.20		
+2	197	Tumor 	22.04.20		4			Lung	3D	Frozen	08.10.20		
+3	197	Tumor 	22.04.20		6			Lung	3D	Banking completed	26.10.20		
+1	198	Tumor 	14.05.20		3			Lung	3D	Frozen	08.12.20		
+2	198	Tumor 	14.05.20		6			Lung	3D	banking completed	26.10.20		
+1	199	Tumor 	26.05.20		6			Ovary	3D	Terminated	10.02.20	No Growth	
+1	201	Tumor 	06.08.20		4			Breast	3D	Frozen	20.10.20		
+2	201	Tumor 	06.08.20		5			Breast	3D	Banking completed	11.03.20		
+1	202	Tumor 	06.08.20		3			Ovary	3D	Frozen	28.07.20		
+2	202	Tumor 	06.08.20		4			Ovary	3D	Frozen	13.08.20		
+3	202	Tumor 	06.08.20		5			Ovary	3D	Frozen	26.08.20		
+4	202	Tumor 	06.08.20		6			Ovary	3D	Banking completed	15.09.20		
+1	203	Tumor 	13.06.20		4			Lung	3D	Banking completed	24.11.20		
+1	204	Tumor 	26.06.20	n.a.				SCLC	3D	Banking completed	30.06.20		
+1	205	Tumor 	06.02.20		2			Ovary	3D	Frozen	31.08.20		
+2	205	Tumor 	06.02.20		3			Ovary	3D	Frozen	16.09.20		
+3	205	Tumor 	06.02.20		4			Ovary	3D	Banking completed	27.10.20		
+1	206	Tumor 	22.07.20		1			Lung	2D	Frozen	23.07.20		
+2	206	Tumor 	23.07.20		2			Lung	3D	Terminated	15.11.20	No Tumor	
+1	207	Tumor 	13.01.21		2		CHK	OesophagusCA	3D	Terminated	21.02.21		
+1	210	Tumor 	30.01.21		0		CHM	Lung Adeno	3D	Frozen	02.02.20		
+1	211	Tumor 	02.11.21		2		GHM	MagenCA	2D	Terminated	21.02.21	No Growth	
+1	212	Tumor 	02.11.21		0		"CHM, CHK"	Lymphom	2D	Terminated	21.02.21	No Tumor	

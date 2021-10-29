@@ -1,0 +1,19 @@
+df = pd.read_csv('/home/USZ/plialacc/Pliego-Alicia/TablesDB/processingids_ids.tsv', sep = '\t', header=None)
+df = df.astype(object).where(pd.notnull(df),'')
+for index,row in df.iterrows():
+    processing.objects.create(
+    processing_id = row[0],
+    subtype_id = row[1],
+    tumor_type = row[2],
+    passage_date   = row[3], 
+    media  = row[4],
+    passage_number = row[5],
+    defrozen_passage = row[6],
+    status_passage   = row[7],
+    format_processing = row[8],
+    culture_type = row[9],
+    format_number = row[10],
+    cell_block = row[11],
+    smear = row[12],
+    date_block = row[13],
+    comments = row[14])

@@ -1,0 +1,1200 @@
+﻿1.1.1	1.1	CUP	28.09.20	"GHM, CHM, CHK"	0				3D					
+1.1.2	1.1	CUP	25.10.20	"GHM, CHM, CHK"	0		Terminated		3D					
+2.5.1	2.5	PDAC	24.03.20	GHM	0				3D					
+2.5.2	2.5	PDAC	16.04.20	GHM	1				3D					
+2.5.3	2.5	PDAC	02.05.20	GHM	2				3D					
+2.5.4	2.5	PDAC	24.05.20	GHM	3				3D					
+2.5.5	2.5	PDAC	20.06.20	GHM	4				3D					
+2.5.6	2.5	PDAC	20.07.20	GHM	5				3D					
+2.5.7	2.5	PDAC	15.09.20	GHM	5				3D					
+2.5.8	2.5	PDAC	30.09.20	GHM	6				3D					
+2.5.9	2.5	PDAC	08.10.20	GHM	6		Frozen		3D					
+2.1.1	2.1	PDAC	13.06.20	GHM	4		Frozen		2D					
+2.2.1	2.2	PDAC	09.07.20	GHM	5		Frozen		2D					
+2.3.1	2.3	PDAC	20.07.20	GHM	3		Frozen		2D					
+2.4.1	2.4	PDAC	31.08.20	GHM	5				2D					
+2.4.2	2.4	PDAC	22.09.20	GHM	6				2D					
+2.4.3	2.4	PDAC	16.01.00	GHM	6		Frozen		2D					
+2.6.1	2.6	PDAC	27.10.20	GHM	7				3D					
+2.6.2	2.6	PDAC	08.11.20	GHM	7		Terminated		3D					
+3.1.1	3.1	Spindle cell sarcoma	18.03.20		0				3D					
+3.1.2	3.1	Spindle cell sarcoma	29.04.20		1				3D					
+3.1.3	3.1	Spindle cell sarcoma	10.08.20		3				3D					
+3.1.4	3.1	Spindle cell sarcoma	16.10.20		3		Banking completed		3D					
+3.1.5	3.1	Spindle cell sarcoma			2				3D					
+4.1.1	4.1	Peritoneal Carcinomatose	05.05.20		0				3D					
+4.1.2	4.1	Peritoneal Carcinomatose	05.05.20		0		Terminated		3D					
+5.1.1	5.1	Peritoneal Carcinomatose	23.06.20		0				3D					
+5.1.2	5.1	Peritoneal Carcinomatose	17.07.20		1				3D					
+5.1.3	5.1	Peritoneal Carcinomatose	19.08.20		2				3D					
+5.1.4	5.1	Peritoneal Carcinomatose	31.08.20		3				3D					
+5.1.5	5.1	Peritoneal Carcinomatose	02.10.20		4				3D					
+5.1.6	5.1	Peritoneal Carcinomatose	05.11.20		5				3D					
+5.1.7	5.1	Peritoneal Carcinomatose	09.12.20		6			6 well	3D	1				
+5.1.8	5.1	Peritoneal Carcinomatose	13.12.20		6		Terminated		3D					
+7.1.1	7.1	CRC	20.10.20	GHM	0				3D					
+7.1.2	7.1	CRC	06.12.20	GHM	0		Terminated		3D					
+8.1.1	8.1	PlattenCA	21.10.20	"CHM, CHK"	0				3D					
+8.1.2	8.1	PlattenCA	13.11.20	CHM	1				3D					
+8.1.3	8.1	PlattenCA	27.11.20	CHM	2			6well/4wells	3D	1				
+8.1.4	8.1	PlattenCA	07.12.20	CHM	3			10cm	3D	1				
+8.1.5	8.1	PlattenCA	15.12.20	CHM	4			10cm	3D	2				
+8.1.6	8.1	PlattenCA	28.12.20	CHM	4		Banking completed		3D					
+9.1.1	9.1	HCC	28.10.20	"GHM, CHM, CHK"	0				3D					
+9.1.2	9.1	HCC	29.11.20	"GHM, CHM, CHK"	0		Terminated		3D					
+9.2.1	9.2	HCC	28.10.20	"GHM, CHM, CHK"	1				2D					
+9.2.2	9.2	HCC	29.11.20	"GHM, CHM, CHK"	2		Terminated		2D					
+11.01.01	11.1	CUP	28.09.20	"GHM, CHM, CHK"		0			3D					
+11.01.02	11.1	CUP	09.10.20	"GHM, CHM, CHK"		1			3D					
+11.01.03	11.1	CUP	29.10.20	CHK		2			3D					
+11.01.04	11.1	CUP	02.11.20	CHK		3			3D					
+11.01.05	11.1	CUP	09.11.20	CHK		4			3D					
+11.01.06	11.1	CUP	18.11.20	CHK		4	Frozen		3D					
+11.02.01	11.2	CUP	18.11.20	CHK		5			3D					
+11.02.02	11.2	CUP	26.11.20	CHK		5	Frozen		3D					
+11.03.01	11.3	CUP	26.11.20	CHK		6			3D					
+11.03.02	11.3	CUP	08.12.20	CHK		6	Frozen		3D					
+11.04.01	11.4	CUP	16.12.20	CHK		7			3D					
+11.04.02	11.4	CUP	28.12.20	CHK		7	Banking completed		3D		yes		28.12.20	
+12.01.01	12.1	CRC	29.10.20	CHK		5	thawed 		3D					
+12.01.02	12.1	CRC	20.11.20			6			3D					
+12.01.03	12.1	CRC	03.12.20			7		10cm	3D	2				
+12.01.04	12.1	CRC	07.12.20			7	Rebanked		3D					
+13.01.01	13.1	CRC	29.10.20			4	thawed 		3D					
+13.01.02	13.1	CRC	09.11.20			5			3D					
+13.01.03	13.1	CRC	03.12.20			5	Rebanked		3D					
+14.03.01	14.3	SFT 2D	21.01.20	CHK		2	Frozen		3D					
+14.03.02	14.3	SFT 2D	26.12.20	CHK		2			3D					
+14.02.01	14.2	SFT 2D	08.12.20	CHK		0			3D					
+14.02.02	14.2	SFT 2D	16.12.20	CHK		1			3D					
+14.02.03	14.2	SFT 2D	26.12.20	CHK		2			3D					
+14.02.04	14.2	SFT 2D	31.12.20	CHK		2	Frozen		3D					
+15.01.01	15.1	PDAC	10.12.20	GHM		0		6 wells	3D	1				
+15.01.02	15.1	PDAC	16.12.20	GHM		1		6 wells	3D	1				
+15.01.03	15.1	PDAC	28.12.20	GHM		2		10cm	3D	1				
+15.01.04	15.1	PDAC	06.01.21	GHM		3		10cm	3D	1				
+15.01.05	15.1	PDAC	19.01.21	GHM		4		10cm	3D	2				
+15.01.06	15.1	PDAC	29.01.21	GHM		4	Frozen		3D					
+15.03.01	15.3	PDAC	28.12.20	DMEM		2		T75	2D	1				
+15.03.02	15.3	PDAC	19.01.21	DMEM		3		T150	2D	1				
+15.02.01	15.2	PDAC	05.02.21	GHM		5		10cm	3D	2				
+16.02.01	16.2	Nebenniere	15.12.20	"GHM, CHM, CHK"		0		6well/6wells	2D	1				
+16.01.01	16.1	Nebenniere	15.12.20	"GHM, CHM, CHK"		0		6well/6wells	3D	1				
+16.01.02	16.1	Nebenniere	07.01.21	"CHK, in Matrigel "		1		6well/3wells	3D	1				
+16.01.03	16.1	Nebenniere	10.02.21	CHK		2		10cm	3D	1				
+21.02.01	21.2	Baby	18.12.20	CHK		0			2D					
+21.02.02	21.2	Baby	30.12.20	CHK		1			2D		yes		06.02.21	
+21.02.03	21.2	Baby	21.01.21	CHK		2	Banking completed		3D					
+21.03.01	21.3	Baby	18.12.20	CHM		0			2D					
+21.03.02	21.3	Baby	30.12.20	CHK		1			2D					
+21.03.03	21.3	Baby	10.01.21	CHK		2		T150	2D	3				
+21.03.04	21.3	Baby	14.01.21	CHK		2	Frozen		2D					
+21.05.01	21.5	Baby	18.12.20	CHM		0			2D					
+21.05.02	21.5	Baby	27.01.21	"DMEM, CHM, CHK"		1		T75	2D	3	yes		12.02.21	
+21.05.03	21.5	Baby	07.02.21	CHM		2			2D					
+21.05.04	21.5	Baby	12.02.21	CHM		2	Frozen		2D					
+21.04.01	21.4	Baby	20.01.21	CHK		2	Frozen		2D					
+21.06.01	21.6	Baby	20.01.21	SHM		3		T150	2D					
+21.06.02	21.6	Baby	15.02.21	SHM		4		T150	2D					
+22.02.01	22.2	Sarcoma	21.12.20			0			2D					
+22.02.02	22.2	Sarcoma	30.12.20			1			2D					
+22.02.03	22.2	Sarcoma	19.01.21	CHK		2		T150	2D	1				
+22.02.04	22.2	Sarcoma	22.01.21	CHK		3		T150	2D	2				
+22.02.05	22.2	Sarcoma	02.02.21	CHK		3			2D					
+22.03.01	22.3	MPNST	13.02.21	CHK		3		T150	2D					
+22.03.02	22.3	MPNST	19.02.21	CHK		3	Banking completed		2D					
+23.01.01	23.1	Ampullary Carcinoma 	22.12.20	GHM		0		6well/4wells	3D					
+23.01.02	23.1	Ampullary Carcinoma 	04.01.21	GHM		1		6well/3wells	3D					
+23.01.03	23.1	Ampullary Carcinoma 	08.01.21	GHM		2		10cm	3D	1				
+23.01.04	23.1	Ampullary Carcinoma 	14.01.21	GHM		3		10cm	3D	1				
+23.01.05	23.1	Ampullary Carcinoma 	22.01.21	GHM		3	Frozen		3D					
+23.02.01	23.2	Ampullary Carcinoma 	04.01.21	DMEM		1		T25	2D	1				
+23.03.01	23.3	Ampullary Carcinoma 	22.01.21	GHM		4		10cm	3D	1				
+23.03.02	23.3	Ampullary Carcinoma 	29.01.21	GHM		5		10cm	3D	2				
+23.03.03	23.3	Ampullary Carcinoma 	05.02.21	GHM		5	Frozen		3D					
+23.04.01	23.4	Ampullary Carcinoma 	05.02.21	GHM		6		10cm	3D	1				
+25.01.01	25.1	PDAC	23.12.20	GHM		0		6well/5wells	3D	1				
+25.01.02	25.1	PDAC	31.12.20	GHM		1		6well/6wells	3D	1				
+25.01.03	25.1	PDAC	04.01.21	GHM		2		10cm	3D	2				
+25.01.04	25.1	PDAC	14.01.21	GHM		3		10cm	3D	2				
+25.01.05	25.1	PDAC	22.01.21	GHM		3	Frozen		3D					
+25.04.01	25.4	PDAC Stroma	04.01.21	DMEM		2		T25	2D	1				
+25.02.01	25.2	PDAC	22.01.21	GHM		4		10cm	3D	1				
+25.02.02	25.2	PDAC	29.01.21	GHM		5		10cm	3D	2				
+25.02.03	25.2	PDAC	05.02.21	GHM		5			3D					
+25.03.01	25.3	PDAC	05.02.21	GHM		6		10cm	3D	1				
+27.01.01	27.1	NTRK	04.02.20			0			2D					
+27.01.02	27.1	NTRK	03.03.20			5			2D					
+27.01.03	27.1	NTRK	29.10.20			6	Frozen		2D					
+27.06.01	27.6	NTRK	03.03.20			5	Frozen		2D					
+27.06.02	27.6	NTRK	08.10.20	thawed vial p5 from 3.3.20		6			2D					
+27.06.03	27.6	NTRK	14.10.20			7			2D					
+27.06.04	27.6	NTRK	21.10.20			8			2D					
+27.06.05	27.6	NTRK	29.10.20	RPMI 10% FBS		9		T75	2D	1				
+27.06.06	27.6	NTRK	11.11.20	SHM		11		T75	2D	1				
+27.06.07	27.6	NTRK	11.11.20	RPMI 1% FBS		11		T75	2D	1				
+27.06.08	27.6	NTRK	02.12.20	RPMI 10% FBS		13		T150	2D	4				
+27.06.09	27.6	NTRK		RPMI 10% FBS		12		T150	2D	1				
+27.02.01	27.2	NTRK	15.04.20			7			2D					
+27.02.02	27.2	NTRK	16.04.20			7	Frozen		2D					
+27.03.01	27.3	NTRK	08.07.20			16	Frozen		2D					
+27.04.01	27.4	NTRK	27.07.20			17			2D					
+27.04.02	27.4	NTRK	14.08.20			18			2D					
+27.04.03	27.4	NTRK	18.08.20			18	Frozen		2D					
+27.05.01	27.5	NTRK	18.08.20			19			2D					
+27.05.02	27.5	NTRK	02.09.20			20			2D					
+27.05.03	27.5	NTRK	16.09.20			21			2D					
+27.05.04	27.5	NTRK	23.09.20			22			2D					
+27.05.05	27.5	NTRK	01.10.20			23			2D					
+27.05.06	27.5	NTRK	08.10.20	RPMI 10% FBS		24			2D					
+27.05.07	27.5	NTRK	20.10.20	RPMI 1% FBS		25		T25	2D	1				
+27.05.08	27.5	NTRK	29.10.20	RPMI 1% FBS		26		T25	2D	1				
+27.05.09	27.5	NTRK	11.11.20	RPMI 10% FBS		27		T75	2D	1				
+27.05.10	27.5	NTRK	02.12.20	RPMI 10% FBS		30		T150	2D	1				
+27.05.11	27.5	NTRK	09.12.20	RPMI 10% FBS		30	Banking completed		2D					
+28.01.01	28.1	Synovial SA	25.03.20			0			2D					
+28.01.02	28.1	Synovial SA	08.04.20			1			2D					
+28.01.03	28.1	Synovial SA	19.04.20			2			2D					
+28.01.04	28.1	Synovial SA	05.06.20			3			2D					
+28.01.05	28.1	Synovial SA	01.07.20			6	Frozen		2D					
+28.03.01	28.3	Synovial SA	03.10.20	DMEM 10% FBS		7		T150	2D	1				
+28.02.01	28.2	Synovial SA	04.10.20	DMEM 10% FBS		5			2D					
+28.02.02	28.2	Synovial SA	28.10.20	DMEM 10% FBS		5	Banking completed		2D					
+28.02.03	28.2	Synovial SA		DMEM 10% FBS		4			2D					
+29.01.01	29.1	PDAC	15.04.20	GHM		0			3D					
+29.01.02	29.1	PDAC	02.05.20	GHM		1			3D					
+29.01.03	29.1	PDAC	24.05.20	GHM		2			3D					
+29.01.04	29.1	PDAC	05.06.20	GHM		3			3D					
+29.01.05	29.1	PDAC	30.09.20	GHM		3	Terminated		3D					
+30.01.01	30.1	CCC	28.07.20	GHM		5			3D					
+30.01.02	30.1	CCC	12.08.20	GHM		6			3D					
+30.01.03	30.1	CCC	22.09.20	GHM		7			3D					
+30.01.04	30.1	CCC	09.10.20	GHM		7	Frozen		3D					
+30.2.1	30.2	CCC	09.10.20	GHM		8			3D					
+30.2.2	30.2	CCC	23.10.20	GHM		8	Banking completed		3D					
+31.01.01	31.1	CCC	28.06.20	GHM		4	Frozen		3D					
+31.2.1	31.2	CCC	27.07.20	GHM		5			3D					
+31.2.2	31.2	CCC	12.08.20	GHM		5	Frozen		3D					
+31.03.01	31.3	CCC	12.08.20	GHM		6			3D					
+31.03.02	31.3	CCC	22.09.20	GHM		7			3D					
+31.03.03	31.3	CCC	09.10.20	GHM		7	Frozen		3D					
+31.4.1	31.4	CCC	09.10.20	GHM		8			3D					
+31.4.2	31.4	CCC	23.10.20	GHM		8	Banking completed		3D					
+32.1.1	32.1	CCC	03.06.20	GHM		3	Frozen		3D					
+32.2.1	32.2	CCC	08.06.20	GHM		3	Frozen		3D					
+32.3.1	32.3	CCC	16.12.20	GHM		3	Banking completed		2D					
+33.1.1	33.1	Angio sarcoma	28.04.20			0			2D					
+33.1.2	33.1	Angio sarcoma	05.06.20			1			2D					
+33.1.3	33.1	Angio sarcoma	20.06.20			2			2D					
+33.1.4	33.1	Angio sarcoma	06.07.20			3	Banking completed		2D					
+34.1.1	34.1	AnalCA	04.05.20			0			3D					
+34.1.2	34.1	AnalCA	09.05.20			1			3D					
+34.1.3	34.1	AnalCA	24.05.20			2			3D					
+34.1.4	34.1	AnalCA				2	Terminated		3D					
+35.1.1	35.1	Peritoneal Carcinomatose	05.05.20			0			3D					
+35.1.2	35.1	Peritoneal Carcinomatose	24.05.20			1			3D					
+35.1.3	35.1	Peritoneal Carcinomatose	12.06.20			2			3D					
+35.1.4	35.1	Peritoneal Carcinomatose	23.06.20			3			3D					
+35.1.5	35.1	Peritoneal Carcinomatose	13.07.20			4			3D					
+35.1.6	35.1	Peritoneal Carcinomatose	05.08.20			5			3D					
+35.1.7	35.1	Peritoneal Carcinomatose	05.10.20			5	Terminated		3D					
+36.1.1	36.1	Myoxoid Lipo	11.05.20			0			2D					
+36.1.2	36.1	Myoxoid Lipo	05.06.20			1			2D					
+36.1.3	36.1	Myoxoid Lipo	28.06.20			2			2D					
+36.1.4	36.1	Myoxoid Lipo	20.07.20			3			2D					
+36.1.5	36.1	Myoxoid Lipo	16.10.20			3	Banking completed		2D					
+37.1.1	37.1	CCC	12.05.20	GHM		0			3D					
+37.1.2	37.1	CCC	24.05.20	GHM		1			3D					
+37.1.3	37.1	CCC	05.06.20	GHM		2			3D					
+37.1.4	37.1	CCC	20.06.20	GHM		3			3D					
+37.1.5	37.1	CCC	20.07.20	GHM		4			3D					
+37.1.6	37.1	CCC	28.07.20	GHM		4			3D					
+37.1.7	37.1	CCC	13.08.20	GHM		5			3D					
+37.1.8	37.1	CCC	02.09.20	GHM		6	Terminated		3D					
+37.7.1	37.7	CCC	03.08.20	GHM		3	Frozen		2D					
+37.2.1	37.2	CCC	30.09.20	GHM		5			3D					
+37.2.2	37.2	CCC	05.11.20	GHM		6			3D					
+37.2.3	37.2	CCC	19.11.20	GHM		7			3D					
+37.2.4	37.2	CCC	04.12.20	GHM		8		10cm	3D	2				
+37.2.5	37.2	CCC	09.12.20	GHM		8	Frozen		3D					
+37.8.1	37.8	CCC	05.11.20	GHM		6		T25	2D	1				
+37.8.2	37.8	CCC	08.12.20	GHM		7		T75	2D	1				
+37.8.3	37.8	CCC	29.12.20	GHM		8		T150	2D	2				
+37.8.4	37.8	CCC	12.01.21	GHM		8	Frozen		2D					
+37.3.1	37.3	CCC	09.12.20	GHM		9		10cm	3D	2				
+37.3.2	37.3	CCC	16.12.20	GHM		9	Frozen		3D					
+37.4.1	37.4	CCC	16.12.20	GHM		10		10cm	3D	1				
+37.4.2	37.4	CCC	29.12.20	GHM		11		10cm	3D	2				
+37.4.3	37.4	CCC	31.12.20	GHM		11	Frozen		3D					
+37.5.1	37.5	CCC	31.12.20	GHM		12			3D					
+37.5.2	37.5	CCC	06.01.21	GHM		12	Frozen	10cm	3D	2				
+37.6.1	37.6	CCC	12.01.21	GHM		12	Banking completed	10cm	3D	2				
+37.9.1	37.9	CCC	12.01.21	GHM		9		T75	2D	1				
+38.1.1	38.1	Thyroid Papillary	13.05.20			0			3D					
+38.1.2	38.1	Thyroid Papillary	20.06.20			1			3D					
+38.1.3	38.1	Thyroid Papillary	05.07.20			2			3D					
+38.1.4	38.1	Thyroid Papillary	31.08.20			3			3D					
+38.1.5	38.1	Thyroid Papillary	16.09.20			3	Frozen		3D					
+38.2.1	38.2	Thyroid Papillary	16.09.20			3			3D					
+38.2.2	38.2	Thyroid Papillary	23.09.20			4			3D					
+38.2.3	38.2	Thyroid Papillary	26.10.20			4	Banking completed		3D					
+39.1.1	39.1	CRC	19.05.20	GHM		0			3D					
+39.1.2	39.1	CRC	23.05.20	GHM		1			3D					
+39.1.3	39.1	CRC	30.05.20	GHM		2			3D					
+39.1.4	39.1	CRC	16.06.20	GHM		3			3D					
+39.1.5	39.1	CRC	20.07.20	GHM		4			3D					
+39.1.6	39.1	CRC	30.09.20	GHM		4	Terminated		3D					
+40.1.1	40.1	CCC	19.05.20	GHM		0			3D					
+40.1.2	40.1	CCC	19.05.20	GHM		0			3D					
+40.1.3	40.1	CCC	06.07.20	GHM		1			3D					
+40.1.4	40.1	CCC	06.07.20	GHM		1			3D					
+40.1.5	40.1	CCC	28.07.20	GHM		2			3D					
+40.1.6	40.1	CCC	28.07.20	GHM		2			3D					
+40.1.7	40.1	CCC	13.08.20	GHM		3			3D					
+40.1.8	40.1	CCC	24.08.20	GHM		3	Frozen		3D					
+40.1.9	40.1	CCC	12.11.20	GHM		4	Thawed		3D					
+40.1.10	40.1	CCC	26.11.20	GHM		5		6well/3wells	3D	1				
+40.1.11	40.1	CCC	11.12.20	GHM		6		10cm	3D	1				
+40.1.12	40.1	CCC	17.12.20	GHM		6	Rebanked		3D					
+40.2.1	40.2	CCC	24.08.20	GHM		3			3D					
+40.2.2	40.2	CCC	26.08.20	GHM		4			3D					
+40.2.3	40.2	CCC	15.09.20	GHM		5			3D					
+40.3.1	40.3	CCC	31.08.20	GHM		4			3D					
+40.3.2	40.3	CCC	16.09.20	GHM		6			3D					
+40.4.1	40.4	CCC	16.09.20	GHM		7			3D					
+40.4.2	40.4	CCC	18.09.20	GHM		5			3D					
+40.4.3	40.4	CCC	07.10.20	GHM		6			3D					
+40.5.1	40.5	CCC	08.10.20	GHM		6			3D					
+40.5.2	40.5	CCC	23.10.20	GHM		6	Banking completed		3D					
+41.1.1	41.1	Bone	23.05.20			0			2D					
+43.1.1	43.1	AdnexCA	26.05.20			0			3D					
+43.1.2	43.1	AdnexCA	05.06.20			1			3D					
+43.1.3	43.1	AdnexCA	05.07.20			2			3D					
+43.1.4	43.1	AdnexCA	28.07.20			2	Frozen		3D					
+43.2.1	43.2	AdnexCA	28.07.20			3			3D					
+43.2.2	43.2	AdnexCA	13.08.20			3	Frozen		3D					
+43.2.3	43.2	AdnexCA	12.11.20			4	Thawed		3D					
+43.2.4	43.2	AdnexCA	29.11.20			4	Terminated		3D					
+43.3.1	43.3	AdnexCA	13.08.20			4			3D					
+43.3.2	43.3	AdnexCA	02.09.20			5			3D					
+43.3.3	43.3	AdnexCA	15.09.20			5	Frozen		3D					
+43.4.1	43.4	AdnexCA	15.09.20			5			3D					
+43.4.2	43.4	AdnexCA	18.09.20			6			3D					
+43.4.3	43.4	AdnexCA	12.10.20			6	Banking completed		3D					
+44.3.1	44.3	PDAC	26.05.20	GHM		0			3D					
+44.3.2	44.3	PDAC	02.06.20	GHM		1			3D					
+44.3.3	44.3	PDAC	13.06.20	GHM		2			3D					
+44.3.4	44.3	PDAC	06.07.20	GHM		3			3D					
+44.3.5	44.3	PDAC	28.07.20	GHM		4			3D					
+44.3.6	44.3	PDAC	13.08.20	GHM		5			3D					
+44.3.7	44.3	PDAC	15.09.20	GHM		6			3D					
+44.3.8	44.3	PDAC	28.09.20	GHM		7			3D					
+44.3.9	44.3	PDAC	13.10.20	GHM		8			3D					
+44.3.10	44.3	PDAC	18.11.20	GHM		8	Frozen		3D					
+44.1.1	44.1	PDAC	04.10.20	GHM		5			2D					
+44.1.2	44.1	PDAC	30.10.20	GHM		6		T75	2D	2				
+44.1.3	44.1	PDAC	08.12.20	GHM		6	Frozen		2D	1				
+44.4.1	44.4	PDAC	23.10.20	GHM		6	Frozen		3D					
+44.5.1	44.5	PDAC	23.10.20	GHM		7			3D					
+44.5.2	44.5	PDAC	16.11.20	GHM		9		10cm	3D	2				
+44.5.3	44.5	PDAC	03.12.20	GHM		9	Frozen		3D					
+44.6.1	44.6	PDAC	08.12.20	GHM		8	Frozen	6well/2wells	3D					
+44.2.1	44.2	PDAC	08.12.20	GHM		7		T150	2D	1				
+44.2.2	44.2	PDAC	17.12.20	GHM		7	Frozen		2D					
+44.7.1	44.7	PDAC	11.12.20	GHM		9		10cm	3D	1				
+44.7.2	44.7	PDAC	30.12.20	GHM		10		10cm	3D	2				
+44.7.3	44.7	PDAC	04.01.21	GHM		10	Frozen		3D					
+44.8.1	44.8	PDAC	04.01.21	GHM		10			3D					
+44.8.2	44.8	PDAC	06.01.21	GHM		11		10cm	3D	2				
+44.8.3	44.8	PDAC	12.01.21	GHM		11	Frozen		3D					
+44.9.1	44.9	PDAC	12.01.21	GHM		12		10cm	3D	1				
+44.9.2	44.9	PDAC	22.01.21	GHM		13		10cm	3D	1				
+45.1.1	45.1	Peritoneal Carcinomatose	02.06.20			0	Terminated		 -					
+46.1.1	46.1	PDAC	02.06.20	GHM		0			3D					
+46.1.2	46.1	PDAC	10.06.20	GHM		1			3D					
+46.1.3	46.1	PDAC	20.06.20	GHM		2			3D					
+46.1.4	46.1	PDAC	20.07.20	GHM		3	Frozen		3D					
+46.2.1	46.2	PDAC	28.07.20	GHM		3			3D					
+46.2.2	46.2	PDAC	28.07.20	GHM		4			3D					
+46.2.3	46.2	PDAC	17.08.20	GHM		5			3D					
+46.2.4	46.2	PDAC	31.08.20	GHM		5	Frozen		3D					
+46.3.1	46.3	PDAC	31.08.20	GHM		5			3D					
+46.3.2	46.3	PDAC	08.09.20	GHM		6			3D					
+46.3.3	46.3	PDAC	16.09.20	GHM		6	Frozen		3D					
+46.4.1	46.4	PDAC	16.09.20	GHM		6			3D					
+46.4.2	46.4	PDAC	23.09.20	GHM		7			3D					
+46.4.3	46.4	PDAC	09.10.20	GHM		7	Banking completed		3D					
+47.1.1	47.1	PDAC	02.06.20			0			3D					
+47.1.2	47.1	PDAC	10.08.20			3			3D					
+47.1.3	47.1	PDAC	02.09.20	CHM		4			3D					
+47.1.4	47.1	PDAC	07.10.20	GHM		5			3D					
+47.1.5	47.1	PDAC	02.11.20	GHM		6			3D					
+47.1.6	47.1	PDAC	16.11.20	GHM		7			3D					
+47.1.7	47.1	PDAC	18.11.20	GHM		6	Frozen	T150	3D	4				
+47.1.8	47.1	PDAC				1			3D					
+47.1.9	47.1	PDAC				2			3D					
+47.2.1	47.2	PDAC	07.10.20	GHM		5			2D					
+47.2.2	47.2	PDAC	03.11.20	GHM		6			2D					
+47.2.3	47.2	PDAC	10.11.20	GHM		7			2D					
+47.2.4	47.2	PDAC	18.11.20	GHM		8		T150	2D	4				
+47.2.5	47.2	PDAC	23.11.20	GHM		8	Frozen		2D					
+47.3.1	47.3	PDAC	04.12.20	GHM		8		T75	2D	1				
+47.3.2	47.3	PDAC	11.12.20	GHM		9		T150	2D	1				
+47.3.3	47.3	PDAC	16.12.20	GHM		9	Banking completed	T150	2D	1				
+48.1.1	48.1	MPNST?	03.06.20			0			2D					
+48.1.2	48.1	MPNST?				0	Terminated		2D					
+49.1.1	49.1	Osteo	06.06.20			0			2D					
+49.1.2	49.1	Osteo	20.06.20			1			2D					
+49.1.3	49.1	Osteo	01.07.20			2	Frozen		2D					
+49.2.1	49.2	Osteo	01.07.20			2			2D					
+49.2.2	49.2	Osteo	09.07.20			2	Banking completed		2D					
+50.1.1	50.1	Peritoneal Carcinomatose	05.06.20			0			3D					
+50.1.2	50.1	Peritoneal Carcinomatose	18.06.20			1			3D					
+50.1.3	50.1	Peritoneal Carcinomatose	24.06.20			2			3D					
+50.1.4	50.1	Peritoneal Carcinomatose	11.07.20			3			3D					
+50.1.5	50.1	Peritoneal Carcinomatose	24.07.20			4	Frozen		3D					
+50.2.1	50.2	Peritoneal Carcinomatose	04.08.20			4	Frozen		3D					
+50.3.1	50.3	Peritoneal Carcinomatose	09.08.20			6			3D					
+50.3.2	50.3	Peritoneal Carcinomatose	13.08.20			7			3D					
+50.3.3	50.3	Peritoneal Carcinomatose	24.08.20			7	Frozen		3D					
+50.3.4	50.3	Peritoneal Carcinomatose				5								
+50.4.1	50.4	Peritoneal Carcinomatose	24.08.20			8			3D					
+50.4.2	50.4	Peritoneal Carcinomatose	16.09.20			8	Banking completed		3D					
+51.1.1	51.1	UPS	09.06.20			0			2D					
+51.1.2	51.1	UPS	18.06.20			1			2D					
+51.1.3	51.1	UPS	01.07.20			3	Frozen		2D					
+51.2.1	51.2	UPS	29.07.20			3			2D					
+51.2.2	51.2	UPS	19.08.20			4			2D					
+51.2.3	51.2	UPS	14.09.20			4	Frozen		2D					
+51.3.1	51.3	UPS	15.09.20			5			2D					
+51.3.2	51.3	UPS	14.10.20			5	Frozen		2D					
+51.4.1	51.4	UPS	14.10.20			6			2D					
+51.4.2	51.4	UPS	28.10.20			6	Frozen		2D					
+51.4.3	51.4	UPS	17.02.21	adv. DMEM 10% FBS		6		T25	2D					
+51.4.4	51.4	UPS	22.02.21	adv. DMEM 10% FBS		7		T150	2D					
+51.4.5	51.4	UPS	26.02.21	adv. DMEM 10% FBS		8		T150	2D					
+51.5.1	51.5	UPS	14.10.20			3	Frozen		2D					
+51.6.1	51.6	UPS	03.11.20	SHM		8		T25	2D	1				
+51.6.2	51.6	UPS	03.11.20	DMEM 1% FBS		8		T150	2D	1				
+51.6.3	51.6	UPS	09.11.20	DMEM 1% FBS		9		T150	2D	1				
+51.6.4	51.6	UPS	09.11.20	SHM		9		T25	2D	1				
+52.1.1	52.1	PDAC	10.06.20			0	Terminated		 -					
+55.1.1	55.1	Peritoneal Carcinomatose	16.06.20	GHM			Terminated		3D					
+56.1.1	56.1	Peritoneal Carcinomatose	22.06.20	GHM			Terminated		3D					
+59.1.1	59.1	Peritoneal Carcinomatose	17.06.20			1			3D					
+59.1.2	59.1	Peritoneal Carcinomatose	29.06.20			0	Terminated		3D					
+60.1.1	60.1	Peritoneal Carcinomatose	30.06.20	CHM		0			3D					
+60.1.2	60.1	Peritoneal Carcinomatose	11.07.20	CHM		1			3D					
+60.1.3	60.1	Peritoneal Carcinomatose	17.08.20	CHM		2			3D					
+60.1.4	60.1	Peritoneal Carcinomatose	15.10.20	CHK		3			3D					
+60.1.5	60.1	Peritoneal Carcinomatose	23.11.20	CHK		4		6well/1well	3D	1				
+60.1.6	60.1	Peritoneal Carcinomatose	06.12.20	CHK		4	Terminated		3D					
+63.1.1	63.1	Peritoneal Carcinomatose	02.06.20			0	Terminated		 -					
+65.1.1	65.1	NET	11.08.20			1			3D					
+65.1.2	65.1	NET	24.08.20			2			3D					
+65.1.3	65.1	NET	16.09.20			2	Frozen		3D					
+65.1.4	65.1	NET	15.07.20			0			3D					
+65.2.1	65.2	NET	22.09.20			3			3D					
+65.2.2	65.2	NET	23.10.20			3	Banking completed		3D					
+66.1.1	66.1	CRC	15.07.20	GHM		0			3D					
+68.1.1	68.1	CRC	29.07.20	GHM		0			3D					
+68.1.2	68.1	CRC	10.08.20	GHM		1	Banking completed		3D					
+69.1.1	69.1	CRC	31.07.20	GHM		0			3D					
+69.1.2	69.1	CRC	13.08.20	GHM		1			3D					
+69.1.3	69.1	CRC	17.09.20	GHM		2			3D					
+69.1.4	69.1	CRC	27.10.20	GHM		3			3D					
+69.1.5	69.1	CRC	08.11.20	GHM		3	Terminated		3D					
+70.2.1	70.2	Peritoneal Carcinomatose	04.08.20			0	Frozen		Tissue					
+70.2.2	70.2	Peritoneal Carcinomatose	04.08.20			0			3D					
+70.2.3	70.2	Peritoneal Carcinomatose	10.08.20			1			3D					
+70.2.4	70.2	Peritoneal Carcinomatose	19.08.20			2			3D					
+70.2.5	70.2	Peritoneal Carcinomatose	02.09.20			3			3D					
+70.2.6	70.2	Peritoneal Carcinomatose	22.09.20			3	Frozen		3D					
+70.3.1	70.3	Peritoneal Carcinomatose	23.09.20			4			3D					
+70.3.2	70.3	Peritoneal Carcinomatose	07.10.20			4	Frozen		3D					
+70.4.1	70.4	Peritoneal Carcinomatose	08.10.20			5			3D					
+70.4.2	70.4	Peritoneal Carcinomatose	11.11.20			6			3D					
+70.4.3	70.4	Peritoneal Carcinomatose	25.11.20			7		10cm	3D	2				
+70.4.4	70.4	Peritoneal Carcinomatose	07.12.20			7	Banking completed		3D					
+71.2.1	71.2	CCC	22.09.02	GHM		3			2D					
+71.2.2	71.2	CCC	13.08.20	GHM		2			2D					
+71.2.3	71.2	CCC	05.10.20	GHM		3			2D					
+71.2.4	71.2	CCC	14.10.20	GHM		4			2D					
+71.2.5	71.2	CCC	16.12.20	GHM		4	Frozen		2D					
+71.1.1	71.1	CCC	04.08.20	GHM		0			3D					
+71.1.2	71.1	CCC	17.08.20	GHM		1			3D					
+71.1.3	71.1	CCC	31.08.20	GHM		2			3D					
+71.1.4	71.1	CCC	05.10.20	GHM		3			3D					
+71.1.5	71.1	CCC	29.10.20	GHM		4			3D					
+71.1.6	71.1	CCC	10.11.20	GHM		4	Frozen		3D					
+71.3.1	71.3	CCC	12.11.20	GHM		5			3D					
+71.3.2	71.3	CCC	24.11.20	GHM		5	Frozen		3D					
+71.4.1	71.4	CCC	25.11.20	GHM		6		10cm	3D	2				
+71.4.2	71.4	CCC	15.12.20	GHM		6	Banking completed		3D					
+74.2.1	74.2	Baby Tumor	06.08.20			0			2D					
+74.2.2	74.2	Baby Tumor	14.08.20			1			2D					
+74.2.3	74.2	Baby Tumor	18.08.20			2	Frozen		2D					
+74.3.1	74.3	Baby Tumor	18.08.20			2			2D					
+74.3.2	74.3	Baby Tumor	21.08.20			3			2D					
+74.3.3	74.3	Baby Tumor	31.08.20			3	Frozen		2D					
+74.4.1	74.4	Baby Tumor	31.08.20			3			2D					
+74.4.2	74.4	Baby Tumor	10.09.20			4			2D					
+74.4.3	74.4	Baby Tumor	18.09.20			4	Frozen		2D					
+74.4.4	74.4	Baby Tumor BCOR	17.02.21	DMEM 10% FBS		4		T25	2D	2				
+74.4.5	74.4	Baby Tumor BCOR	22.02.21	DMEM 10% FBS		5		T150	2D					
+74.5.1	74.5	Baby Tumor	14.09.20			3	Frozen		2D					
+74.6.1	74.6	Baby Tumor	18.09.20			5			2D					
+74.6.2	74.6	Baby Tumor	23.09.20			6			2D					
+74.6.3	74.6	Baby Tumor	01.10.20			7			2D					
+74.6.4	74.6	Baby Tumor	08.10.20			8			2D					
+74.6.5	74.6	Baby Tumor	20.10.20			9			2D					
+74.6.6	74.6	Baby Tumor	09.11.20	SHM		10		T25	2D	1				
+74.6.7	74.6	Baby Tumor	09.11.20	DMEM 1%FBS		11		T75	2D	1				
+75.2.1	75.2	Sarcoma	15.09.20			1			2D					
+75.2.2	75.2	Sarcoma	15.09.20	DMEM 10% FBS		1			2D					
+75.2.3	75.2	Sarcoma	26.10.20	DMEM		2		T75	2D	1				
+75.2.4	75.2	Sarcoma	26.10.20	DMEM 10% FBS		2			2D					
+75.2.5	75.2	Sarcoma	23.12.20	DMEM 10% FBS		3			2D					
+75.2.6	75.2	Sarcoma	26.01.21			3								
+75.2.7	75.2	Sarcoma	26.01.21	DMEM 10% FBS		3	Frozen		2D					
+75.2.8	75.2	Sarcoma	07.08.20			0			2D					
+75.3.1	75.3	Sarcoma	26.01.21	DMEM 10% FBS		4			2D					
+76.1.1	76.1	PDAC	11.08.20			0			3D					
+76.1.2	76.1	PDAC	15.09.20			2			3D					
+76.1.3	76.1	PDAC	29.09.20			3			3D					
+76.1.4	76.1	PDAC	07.10.20			3			3D					
+76.1.5	76.1	PDAC	08.10.20			3	Frozen		3D					
+76.1.6	76.1	PDAC				1			3D					
+76.3.1	76.3	PDAC	23.10.20			3	Frozen		3D					
+76.2.1	76.2	PDAC	08.10.20			4			3D					
+76.2.2	76.2	PDAC	27.10.20			5			3D					
+76.2.3	76.2	PDAC	03.11.20			4	Frozen		3D					
+76.4.1	76.4	PDAC	02.11.20			6			3D					
+76.4.2	76.4	PDAC	12.11.20			7			3D					
+76.4.3	76.4	PDAC	18.11.20			7	Frozen		3D					
+76.5.1	76.5	PDAC	18.11.20			7			3D					
+76.5.2	76.5	PDAC	19.11.20			8		10cm	3D	2				
+76.5.3	76.5	PDAC	01.12.20			8	Frozen		3D					
+76.6.1	76.6	PDAC	01.12.20			8			3D					
+76.6.2	76.6	PDAC	04.12.20			9		10cm	3D	1				
+76.6.3	76.6	PDAC	11.12.20			10		10cm	3D	2				
+76.6.4	76.6	PDAC	16.12.20			10	Frozen		3D					
+76.7.1	76.7	PDAC	16.12.20			7	Frozen		3D					
+77.1.1	77.1	Breast	18.08.20			0	Banking completed		3D					
+77.1.2	77.1	Breast	24.08.20			1			3D					
+77.1.3	77.1	Breast	08.09.20	CHM		2			3D					
+77.1.4	77.1	Breast	21.09.20	CHK		2			3D					
+77.1.5	77.1	Breast	19.10.20	CHM		3		6well/4wells	3D	1				
+77.1.6	77.1	Breast	19.10.20	CHM		3		6well/4wells	3D	1				
+77.1.7	77.1	Breast	30.11.20	CHM		3	Frozen		3D					
+77.2.1	77.2	Breast	30.11.20	CHM		4		10cm	3D	1				
+77.2.2	77.2	Breast	14.12.20	CHM		5		10cm	3D	2				
+77.2.3	77.2	Breast	05.01.21	CHM		5	Frozen		3D					
+77.3.1	77.3	Breast	05.01.21	CHM		5			3D					
+77.3.2	77.3	Breast	20.01.21	CHM		6		10cm	3D	2	yes		24.02.21	
+78.1.1	78.1	Chondrosarcoma	27.08.20	"GHM, CHM, CHK"		0			2D					
+78.1.2	78.1	Chondrosarcoma	21.10.20	CHK		1		T75	2D	1				
+78.1.3	78.1	Chondrosarcoma	21.10.20			2			2D					
+78.1.4	78.1	Chondrosarcoma	30.10.20			3			2D					
+78.1.5	78.1	Chondrosarcoma	05.11.20	CHK		3	Frozen		2D					
+78.2.1	78.2	Chondrosarcoma	21.10.20	DMEM 		1		T75	2D	1				
+78.2.2	78.2	Chondrosarcoma	05.11.20	advanced DMEM 1% FBS		4		T150	2D					
+78.2.3	78.2	Chondrosarcoma	16.11.20	advanced DMEM 1% FBS		5		T150	2D					
+78.2.4	78.2	Chondrosarcoma	19.11.20	advanced DMEM 1% FBS		5	Frozen							
+78.3.1	78.3	Chondrosarcoma	05.11.20	SHM		4		T150	2D					
+78.3.2	78.3	Chondrosarcoma	16.11.20	SHM		5		T150	2D					
+78.3.3	78.3	Chondrosarcoma	19.11.20	SHM		5								
+78.3.4	78.3	Chondrosarcoma	20.11.20	SHM		6		T150	2D					
+78.4.1	78.4	Chondrosarcoma	16.11.20	advanced DMEM 1% FBS		5		T150	2D					
+78.4.2	78.4	Chondrosarcoma	20.11.20	advanced DMEM 1% FBS		6	Frozen	T150	2D					
+78.4.3	78.4	Chondrosarcoma	24.11.20	advanced DMEM 1% FBS		6	Frozen	T150	2D					
+78.5.1	78.5	Chondrosarcoma	16.11.20	SHM		5		T150	2D					
+78.5.2	78.5	Chondrosarcoma	20.11.20	SHM		6		T150	2D					
+78.5.3	78.5	Chondrosarcoma	24.11.20	SHM		6	Frozen	T150	2D					
+79.1.1	79.1	Chondrosarcoma	29.10.20			3	Frozen		2D					
+79.1.2	79.1	Chondrosarcoma	31.08.20			2			2D					
+79.1.3	79.1	Chondrosarcoma	14.10.20			3			2D					
+79.1.4	79.1	Chondrosarcoma	27.08.20			0			2D					
+79.1.5	79.1	Chondrosarcoma				1			2D					
+79.2.1	79.2	Chondrosarcoma	29.10.20	advanced DMEM 10% FBS		4			2D					
+79.2.2	79.2	Chondrosarcoma	05.11.20	advanced DMEM 1% FBS		5		T150	2D					
+79.2.3	79.2	Chondrosarcoma	16.11.20	advanced DMEM 1% FBS		6		T150	2D					
+79.2.4	79.2	Chondrosarcoma	19.11.20	advanced DMEM 1% FBS		6	Frozen		2D					
+79.3.1	79.3	Chondrosarcoma	05.11.20	SHM		5		T150	2D					
+79.3.2	79.3	Chondrosarcoma	16.11.20	SHM		6		T150	2D					
+79.3.3	79.3	Chondrosarcoma	19.11.20	SHM		6	Frozen		2D					
+79.5.1	79.5	Chondrosarcoma	16.11.20	SHM		6		T150	2D					
+79.5.2	79.5	Chondrosarcoma	20.11.20	SHM		7		T150	2D					
+79.5.3	79.5	Chondrosarcoma	24.11.20	SHM		7	Banking completed		2D					
+79.4.1	79.4	Chondrosarcoma	16.11.20	advanced DMEM 1% FBS		6		T150	2D					
+79.4.2	79.4	Chondrosarcoma	20.11.20	advanced DMEM 1% FBS		7		T150	2D					
+79.4.3	79.4	Chondrosarcoma	24.11.20	advanced DMEM 1% FBS		7	Banking completed		2D					
+79.4.4	79.4	Chondrosarcoma	17.02.21	adv. DMEM 10% FBS		8		T25	2D					
+79.4.5	79.4	Chondrosarcoma	18.02.21	adv. DMEM 10% FBS		9		T75	2D					
+79.4.6	79.4	Chondrosarcoma	24.02.21	adv. DMEM 10% FBS		10		T75	2D	2				
+80.1.1	80.1	Sinunasal	02.09.20	CHM		0			3D					
+80.1.2	80.1	Sinunasal	15.09.20	CHM		1			3D					
+80.1.3	80.1	Sinunasal	05.10.20	CHM		2			3D					
+80.1.4	80.1	Sinunasal	15.10.20	CHM		3			3D					
+80.1.5	80.1	Sinunasal	10.11.20	CHM		4			3D					
+80.1.6	80.1	Sinunasal	16.11.20	CHM		5			3D					
+80.1.7	80.1	Sinunasal	08.12.20	CHM		5	Frozen		3D					
+80.2.1	80.2	Sinunasal	18.11.20	CHM		4	Frozen		3D					
+80.3.1	80.3	Sinunasal	08.12.20	CHM		6		10cm	3D	2				
+80.3.2	80.3	Sinunasal	16.12.20	CHM		6	Frozen		3D					
+80.4.1	80.4	Sinunasal	16.12.20	CHM		7		10cm	3D	2	yes		07.01.21	
+80.4.2	80.4	Sinunasal	05.01.21	CHM		7	Frozen		3D					
+80.5.1	80.5	Sinunasal	05.01.21	CHM		7			3D					
+80.5.2	80.5	Sinunasal	06.01.21	CHM		8		10cm	3D	2				
+81.1.1	81.1	Jaw Sarcoma	03.10.20			2			2D					
+81.1.2	81.1	Jaw Sarcoma	14.10.20			3			2D					
+81.1.3	81.1	Jaw Sarcoma	21.10.20			3	Frozen		2D					
+81.1.4	81.1	Jaw Sarcoma	04.09.20			0			2D					
+81.1.5	81.1	Jaw Sarcoma				1			2D					
+81.2.1	81.2	Jaw Sarcoma	21.10.20	adv. DMEM 10% FBS		4			2D					
+81.2.2	81.2	Jaw Sarcoma	05.11.20			4	Banking completed		2D					
+82.1.1	82.1	CRC	09.09.20	GHM		0			3D					
+82.1.2	82.1	CRC	10.09.20	GHM		0	Terminated		3D					
+83.1.1	83.1	PDAC	09.09.20	GHM		0			3D					
+83.1.2	83.1	PDAC	13.10.20	GHM		1			3D					
+83.1.3	83.1	PDAC	13.10.20	GHM		1			2D					
+83.1.4	83.1	PDAC	05.11.20	GHM		2		6well/2wells	3D	1				
+83.1.5	83.1	PDAC	20.11.20	GHM		3		6well/3wells	3D	1				
+83.1.6	83.1	PDAC	16.12.20	GHM		4		10cm	3D	1				
+83.2.1	83.2	PDAC	30.10.20	DMEM		2		T75	2D	1				
+83.2.2	83.2	PDAC	08.12.20	DMEM		3		T150	2D	2				
+83.2.3	83.2	PDAC	16.12.20	DMEM		3	Frozen		2D					
+83.3.1	83.3	PDAC	05.11.20	DMEM		2		T25	2D	1				
+83.3.2	83.3	PDAC	09.12.20	DMEM		3		T75	2D	1				
+83.3.3	83.3	PDAC	29.12.20	DMEM		4		T150	2D	2				
+83.3.4	83.3	PDAC	12.01.20	DMEM		4	Frozen		2D					
+83.4.1	83.4	PDAC	12.01.21	DMEM		5		T75	2D	1				
+84.1.1	84.1	Sinunasales CA	09.09.20	"CHM, CHK"		0			3D					
+84.1.2	84.1	Sinunasales CA	13.09.20	"CHM, CHK"		1			3D					
+84.1.3	84.1	Sinunasales CA	28.09.20	"CHM, CHK"		2			3D					
+84.1.4	84.1	Sinunasales CA	05.10.20	"CHM, CHK"		3			3D					
+84.1.5	84.1	Sinunasales CA	12.10.20	"CHM, CHK"		3	Frozen		3D					
+84.1.6	84.1	Sinunasales CA	12.11.20	CHM		4	Thawed	6well/1well	3D	1				
+84.1.7	84.1	Sinunasales CA	18.11.20	CHM		5		10cm	3D	1				
+84.1.8	84.1	Sinunasales CA	03.12.20	CHM		5	Rebanked		3D					
+84.1.9	84.1	Sinunasales CA	05.01.21	CHM		4	Thawed	6well/1well	3D	1				
+84.1.10	84.1	Sinunasales CA	13.01.21	CHM		5		6well/3wells	3D	1				
+84.1.11	84.1	Sinunasales CA	17.02.21	CHM		5	Rebanked		3D					
+84.2.1	84.2	Sinunasales CA	12.10.20	"CHM, CHK"		4			3D					
+84.2.2	84.2	Sinunasales CA	22.10.20	CHM		4	Banking completed		3D					
+84.3.1	84.3	Sinunasales CA	22.10.20	CHK		4	Banking completed		3D					
+85.1.1	85.1	Sinunsasal basaloide Platte	12.09.20	CHK		0			3D					
+85.1.2	85.1	Sinunsasal basaloide Platte	22.09.20	CHK		1			3D					
+85.1.3	85.1	Sinunsasal basaloide Platte	13.10.20	CHK		2			3D					
+85.1.4	85.1	Sinunsasal basaloide Platte	27.10.20	CHK		2	Frozen		3D					
+85.1.5	85.1	Sinunsasal basaloide Platte	05.01.21	CHK		3	Thawed	6well/1well	3D	1				
+85.1.6	85.1	Sinunsasal basaloide Platte	13.01.21	CHK		4		6well/3wells	3D	1	yes		03.02.21	
+85.1.7	85.1	Sinunsasal basaloide Platte	03.02.21	CHK		4	Rebanked		3D					
+85.2.1	85.2	Sinunsasal basaloide Platte	12.09.20	CHM		0			3D					
+85.2.2	85.2	Sinunsasal basaloide Platte	22.09.20	CHM		1			3D					
+85.2.3	85.2	Sinunsasal basaloide Platte	13.10.20	CHM		2			3D					
+85.2.4	85.2	Sinunsasal basaloide Platte	28.10.20	CHM		2	Frozen		3D					
+85.3.1	85.3	Sinunsasal basaloide Platte	02.11.20	CHM		3			3D					
+85.3.2	85.3	Sinunsasal basaloide Platte	10.11.20	CHM		3	Frozen		3D					
+85.4.1	85.4	Sinunsasal basaloide Platte	10.11.20	CHM		4			3D					
+85.4.2	85.4	Sinunsasal basaloide Platte	16.11.20	CHM		5			3D					
+85.4.3	85.4	Sinunsasal basaloide Platte	02.12.20	CHM		5	Banking completed		3D					
+85.5.1	85.5	Sinunsasal basaloide Platte	02.12.20	CHM		4	Frozen		3D					
+86.1.1	86.1	CRC	15.09.20	GHM		0			3D					
+86.1.2	86.1	CRC	16.09.20	GHM		0			3D					
+86.1.3	86.1	CRC	29.09.20	GHM		0	Terminated		3D					
+87.2.1	87.2	ovary	16.09.20			0			n.a.					
+87.2.2	87.2	ovary	05.10.20			0	Terminated		n.a.					
+88.2.1	88.2	Carcinoma lung?	22.09.20	"CHM, CHK"		0			3D					
+88.2.2	88.2	Carcinoma lung?	05.10.20	"CHM, CHK"		0	Terminated		3D					
+89.1.1	89.1	CCC	25.09.20	GHM		0			3D					
+89.1.2	89.1	CCC	13.10.20	GHM		1			3D					
+89.1.3	89.1	CCC	30.10.20	GHM		2			3D					
+89.1.4	89.1	CCC	10.11.20	GHM		3			3D					
+89.1.5	89.1	CCC	18.11.20	GHM		3	Frozen		3D					
+89.4.1	89.4	CCC	24.11.20	GHM		4		10cm	3D	2				
+89.4.2	89.4	CCC	08.12.20	GHN		4	Frozen		3D					
+89.5.1	89.5	CCC	09.12.20	GHM		5			3D					
+89.5.2	89.5	CCC	17.12.20	GHM		6		10cm	3D	2				
+89.5.3	89.5	CCC	12.01.21	GHM		6	Frozen		3D					
+89.2.1	89.2	CCC Stroma	09.12.20	GHM		5		T25	2D	1				
+89.2.2	89.2	CCC Stroma	17.12.20	GHM		6		T75	2D	1				
+89.2.3	89.2	CCC Stroma	29.12.20	GHM		7		T150	2D	2				
+89.2.4	89.2	CCC Stroma	12.01.21	GHM		7	Frozen		2D					
+89.3.1	89.3	CCC Stroma	12.01.21	GHM		8		T75	2D	1				
+89.6.1	89.6	CCC	22.01.21	GHM		7		6well/2wells	3D	1				
+89.6.2	89.6	CCC	05.02.21	GHM		8		10cm	3D	1				
+90.2.1	90.2	CRC 	30.09.20	GHM		0			3D					
+90.2.2	90.2	CRC 	25.10.20	GHM		1	Terminated		3D					
+90.1.1	90.1	CRC 	30.09.20	GHM		0			3D					
+90.1.2	90.1	CRC 	12.10.20	GHM		1			3D					
+90.1.3	90.1	CRC 	10.11.20	GHM		2			3D					
+90.1.4	90.1	CRC 	24.11.20	GHM		3		6well/3wells	3D	1				
+90.1.5	90.1	CRC 	10.01.21	GHM		3	Terminated		3D					
+91.1.1	91.1	PDAC	01.10.20	GHM		0			3D					
+91.1.2	91.1	PDAC	08.11.20	GHM		0	Terminated		3D					
+92.1.1	92.1	HCC	02.10.20	"GHM, CHM, CHK"		0			3D					
+92.1.2	92.1	HCC	20.11.20	"CHM, CHK"		1			3D					
+92.1.3	92.1	HCC	29.11.20	"CHM, CHK"		1	Terminated		3D					
+93.2.1	93.2	Sarcoma	07.10.20			0			2D					
+93.2.2	93.2	Sarcoma	14.10.20			0	Terminated		2D					
+94.2.1	94.2	Liver 	07.10.20	"GHM, CHM, CHK"		0			3D					
+94.2.2	94.2	Liver 	19.10.20	GHM		1			3D					
+94.2.3	94.2	Liver 	19.11.20	GHM		2			3D					
+94.2.4	94.2	Liver 	13.12.20	GHM		2	Terminated		3D					
+96.1.1	96.1	Leiomyosarcoma	10.10.20			0			2D					
+96.1.2	96.1	Leiomyosarcoma	14.10.20			0	Terminated		2D					
+98.1.1	98.1	HCC	15.10.20	GHM		0			3D					
+98.1.2	98.1	HCC	25.10.20	GHM		0	Terminated		3D					
+99.2.1	99.2	CRC	16.10.20	GHM		0			3D					
+99.2.2	99.2	CRC	15.11.20	GHM			Terminated		3D					
+100.1.1	100.1	Salivary Gland	20.10.20	"CHM, CHK"		0			3D					
+100.1.2	100.1	Salivary Gland	28.10.20	"CHM, CHK"		1			3D					
+100.1.3	100.1	Salivary Gland	30.11.20	CHK		2		10cm	3D	1				
+100.1.4	100.1	Salivary Gland	14.12.20	CHK		3		10cm	3D	2				
+100.1.5	100.1	Salivary Gland	30.12.20	CHK		3	Frozen		3D					
+100.2.1	100.2	Salivary Gland	20.12.20	CHK		3			3D					
+100.2.2	100.2	Salivary Gland	06.01.21	CHK		4		10cm	3D	2				
+100.2.3	100.2	Salivary Gland	12.01.21	CHK		4	Frozen		3D					
+100.3.1	100.3	Salivary Gland	12.01.21	CHK		4			3D					
+100.3.2	100.3	Salivary Gland	18.01.21	CHK		5		10cm	3D	2				
+100.3.3	100.3	Salivary Gland	28.01.21	CHK		5	Frozen	10cm	3D	2				
+100.4.1	100.4	Salivary Gland	28.01.21	CHK		5		10cm	3D	2				
+100.4.2	100.4	Salivary Gland	02.02.21	CHK		5	Banking completed		3D					
+101.1.1	101.1	Testicle	20.10.20	"CHM, CHK"		0			3D					
+101.1.2	101.1	Testicle	01.11.20	"CHM, CHK"		0	Terminated		3D					
+102.2.1	102.2	CRC	21.10.20	GHM		0			n.a.					
+102.2.2	102.2	CRC	21.10.20	GHM		0			n.a.					
+102.2.3	102.2	CRC	18.11.20	GHM		0		48well/2wells	3D	1				
+102.2.4	102.2	CRC	02.12.20	GHM		0		48well/2wells	2D	1				
+102.2.5	102.2	CRC	02.12.20	GHM		1		6well/1well	3D	1				
+102.2.6	102.2	CRC	14.12.20	GHM		2		10cm	3D	1				
+102.2.7	102.2	CRC	29.12.20	GHM		2	Banking completed		3D					
+102.1.1	102.1	CRC	07.01.21	GHM		1		6well/1well	3D	1				
+102.1.2	102.1	CRC	18.01.21	GHM		2		6well/2wells	3D	1				
+102.1.3	102.1	CRC	05.02.21	GHM		3		10cm	3D	1				
+102.1.4	102.1	CRC		GHM		0		48well/4wells	2D	1				
+102.1.5	102.1	CRC	22.02.21	GHM		4		10cm	3D	2				
+103.2.1	103.2	Melanoma	21.10.20	"CHM, CHK"		0			2D					
+103.2.2	103.2	Melanoma	25.10.20	"CHM, CHK"		0			2D					
+103.3.1	103.3	Melanoma	21.10.20	"CHM, CHK"		0			3D					
+103.3.2	103.3	Melanoma	01.11.20	"CHM, CHK"		0			3D					
+104.2.1	104.2	Ovary Sarcoma?	21.10.20			0	Terminated		n.a.					
+105.2.1	105.2	Leiomyosarcoma	21.10.20	"CHK,CHM,DMEM"		0			2D					
+105.2.2	105.2	Leiomyosarcoma	01.11.20	"CHK,CHM,DMEM"		0	Terminated		2D					
+106.1.1	106.1	Testicle	22.10.20			0			n.a.					
+106.1.2	106.1	Testicle	01.11.20			0	Terminated		n.a.					
+107.1.1	107.1	Magen	23.10.20	GHM		0			3D					
+107.1.2	107.1	Magen	25.10.20	GHM		0	Terminated		3D					
+108.1.1	108.1	Magen	23.10.20	CHM		0			3D					
+108.1.2	108.1	Magen	05.11.20	GHM		1			3D					
+108.1.3	108.1	Magen	19.11.20	GHM		2			3D					
+108.1.4	108.1	Magen	03.12.20	GHM		3		10cm	3D	2				
+108.1.5	108.1	Magen	15.12.20	GHM		3	Frozen		3D					
+108.2.1	108.2	Magen	15.12.20	GHM		3			3D					
+108.2.2	108.2	Magen	16.12.20	GHM		4		10cm	3D	2				
+108.2.3	108.2	Magen	28.12.20	GMH		4	Frozen		3D					
+108.3.1	108.3	Magen	28.12.20	GMH		4			3D					
+108.3.2	108.3	Magen	30.12.20	GHM		5		10cm	3D	2				
+108.3.3	108.3	Magen	05.01.21	GHM		5	Banking completed		3D					
+109.1.1	109.1	Intima sarcoma	21.10.20			0			2D					
+109.1.2	109.1	Intima sarcoma	11.11.20			1			2D					
+109.1.3	109.1	Intima sarcoma	15.11.20			2			2D					
+109.1.4	109.1	Intima sarcoma	19.11.20			3			2D					
+109.1.5	109.1	Intima sarcoma	29.11.20			3	Frozen		2D					
+109.1.6	109.1	Intima sarcoma	05.01.21			4			2D					
+109.1.7	109.1	Intima sarcoma	14.01.21			5			2D			yes	20.01.21	
+109.1.8	109.1	Intima sarcoma	20.01.21			5	Rebanked		2D					
+109.2.1	109.2	Intima sarcoma	29.11.20			4			2D					
+109.2.2	109.2	Intima sarcoma	02.12.20			4			2D					
+109.3.1	109.3	Intima sarcoma	01.12.20			3	Frozen		2D					
+109.4.1	109.4	Intima sarcoma	02.12.20			4			2D					
+109.4.2	109.4	Intima sarcoma	09.12.20			4	Banking completed		2D					
+110.1.1	110.1	Mesenchymales Chonrodsarcom	02.11.20	DMEM and CHM		0			2D					
+110.1.2	110.1	Mesenchymales Chonrodsarcom	19.11.20	DMEM		1			2D					
+110.1.3	110.1	Mesenchymales Chonrodsarcom	21.12.20	DMEM		1			2D					
+110.1.4	110.1	Mesenchymales Chonrodsarcom	04.10.20	DMEM		1	Banking completed		2D					
+110.2.1	110.2	Mesenchymales Chonrodsarcom	29.11.20	DMEM		0	Frozen		2D					
+111.1.1	111.1	HCC	28.10.20	"GHM, CHM, CHK"		0			3D					
+111.1.2	111.1	HCC	01.12.20	"CHM, CHK"		1		10cm	3D	2				
+111.1.3	111.1	HCC	16.12.20	CHK		1			3D					
+111.1.4	111.1	HCC	07.01.21	CHK		2		10cm	3D	1				
+111.1.5	111.1	HCC	02.02.21	CHK		3		10cm	3D	1				
+111.1.6	111.1	HCC 	15.02.21	CHK		4		10cm	3D	2				
+111.1.7	111.1	HCC 	24.02.21	CHK		4	Frozen		3D					
+111.3.1	111.3	HCC	28.10.20	"GHM, CHM, CHK"		0			2D					
+111.2.1	111.2	HCC 	02.02.21	CHK		3		T25	2D	1				
+111.2.2	111.2	HCC 	10.02.21	CHK		4		6well/2wells	3D	1				
+111.2.3	111.2	HCC 	23.02.21	CHK		5		10cm	3D	1				
+112.1.1	112.1	HCC	28.10.20	"GHM, CHM, CHK"		0			2D					
+112.1.2	112.1	HCC	01.11.20	"GHM, CHM, CHK"		0	Terminated		2D					
+112.1.3	112.1	HCC	22.02.21	CHK		5		10cm	3D	2				
+113.1.1	113.1	Thymom	28.10.20	CHM		0			2D					
+113.1.2	113.1	Thymom	04.11.20	CHM		1			3D					
+113.1.3	113.1	Thymom	10.11.20	CHM		2		10cm	3D	1				
+113.1.4	113.1	Thymom	19.11.20	CHM		3		10cm	3D	2				
+113.1.5	113.1	Thymom	08.12.20	CHM		3	Banking completed		3D					
+114.2.1	114.2	HCC	04.11.20	GHM		0			3D					
+114.2.2	114.2	HCC	29.11.20	GHM		0			3D					
+115.2.1	115.2	NET	06.11.20	"GHM, CHM, CHK"		0			2D					
+115.2.2	115.2	NET	06.11.20	"GHM, CHM, CHK"		0			3D					
+115.2.3	115.2	NET	20.11.20	"GHM, CHM, CHK"		1		6well/2wells	3D	2				
+115.2.4	115.2	NET	13.12.20	"GHM, CHM, CHK"		1	Terminated		3D					
+116.1.1	116.1	Mesothelioma	11.11.20	"CHM, CHK"		0			3D					
+116.1.2	116.1	Mesothelioma	13.12.20	"CHM, CHK"		0	Terminated		3D					
+117.1.1	117.1	NET	11.11.20	"CHM, CHK"		0			3D					
+117.1.2	117.1	NET	22.11.20	"CHM, CHK"		0	Terminated		3D					
+118.1.1	118.1	Peritoneal Carcinomatose	16.11.20	GHM		0			3D					
+118.1.2	118.1	Peritoneal Carcinomatose	02.12.20	GHM		1		6well/5wells	3D	1				
+118.1.3	118.1	Peritoneal Carcinomatose	14.12.20	GHM		2		10cm	3D	2				
+118.1.4	118.1	Peritoneal Carcinomatose	22.12.20	GHM		3		10cm	3D	4				
+118.1.5	118.1	Peritoneal Carcinomatose	29.12.20	GHM		3	Frozen		3D					
+118.2.1	118.2	Peritoneal Carcinomatose	29.12.20	GHM		3			3D					
+118.2.2	118.2	Peritoneal Carcinomatose	30.12.20	GHM		4		10cm	3D	2				
+118.2.3	118.2	Peritoneal Carcinomatose	05.01.20	GHM		4	Frozen		3D					
+118.3.1	118.3	Peritoneal Carcinomatose	05.01.20	GHM		4			3D					
+118.3.2	118.3	Peritoneal Carcinomatose	06.01.21	GHM		5		10cm	3D	2				
+118.3.3	118.3	Peritoneal Carcinomatose	12.01.21	GHM		5	Banking completed		3D					
+121.1.1	121.1	IMT 2D	18.11.20	DMEM		0			2D					
+121.1.2	121.1	IMT 2D	13.12.20	CHM		2			2D					
+121.1.3	121.1	IMT 2D	31.12.20	CHM		2	Banking completed		2D					
+121.1.4	121.1	IMT 2D		DMEM->CHM		1			2D					
+122.1.1	122.1	PDAC	19.11.20	GHM		0			3D					
+122.1.2	122.1	PDAC	03.12.20	GHM		1		6well/3wells	3D	1				
+122.1.3	122.1	PDAC	15.12.20	GHM		2		10cm	3D	1				
+122.1.4	122.1	PDAC	08.01.21	GHM		3		10cm	3D	1				
+122.2.1	122.2	PDAC	19.11.20	GHM		0			3D					
+122.2.2	122.2	PDAC	03.12.20	GHM		1		6well/2wells	3D					
+122.2.3	122.2	PDAC	11.01.21	GHM		2		6well/1well	3D	1				
+122.2.4	122.2	PDAC	09.02.21	GHM		2			3D					
+124.1.1	124.1	Peritoneal Carcinomatose	26.11.20			0		6well/3wells	n.a.	1				
+124.1.2	124.1	Peritoneal Carcinomatose	03.01.21			0	Terminated		n.a.					
+125.1.1	125.1	Giant cell tumor 2D	12.12.20	DMEM		0			2D					
+125.1.2	125.1	Giant cell tumor 2D	21.12.20	DMEM		1			2D					
+125.1.3	125.1	Giant cell tumor 2D	31.12.20	DMEM		1			2D					
+125.2.1	125.2	Giant cell tumor 2D	31.12.20	DMEM		1			2D					
+125.2.2	125.2	Giant cell tumor 2D	19.01.21	CHK		2		T150	2D	2				
+125.2.3	125.2	Giant cell tumor 2D	02.02.21	CHK		2	Banking completed		2D					
+126.2.1	126.2	Leiomyosarcoma	12.02.21			3	Frozen		2D					
+126.2.2	126.2	Leiomyosarcoma	09.02.21			2			2D					
+126.1.1	126.1	Leiomyosarcoma	09.02.21			2	Frozen		2D					
+126.1.2	126.1	Leiomyosarcoma	10.01.21			1			2D					
+126.1.3	126.1	Leiomyosarcoma	31.01.21	CHK		2		T150	2D	2				
+126.1.4	126.1	Leiomyosarcoma	02.12.20			0			2D					
+126.1.5	126.1	Leiomyosarcoma	12.02.21	CHK		3		T150	2D	3				
+127.2.1	127.2	Leiomyosarcoma	02.12.20	"DMEM, CHM, CHK"		0			2D					
+127.2.2	127.2	Leiomyosarcoma	10.01.21	"DMEM, CHM, CHK"		1		T75	2D	3				
+131.1.1	131.1	"""Breast"""	05.01.21	CHK		0		6well/4wells	2D	1				
+131.1.2	131.1	"""Breast"""	17.01.21	CHK		0	Terminated		2D					
+132.2.1	132.2	Acinar cell CA	06.01.21	"GHM, CHM, CHK"		0		6well/6wells	2D/3D	1				
+132.2.2	132.2	Acinar cell CA	10.01.21	"GHM, CHM, CHK"		0	Terminated		2D/3D					
+136.2.1	136.2	Synovial Sarcoma	04.02.21			0			2D					
+137.2.1	137.2	OsteoSA	09.02.21	"DMEM, CHM, CHK"		0		6well/3wells	2D	1				
+138.1.1	138.1	CRC	10.02.21	GHM		0		6well/2wells	3D	1				
+138.1.2	138.1	CRC	15.02.21	"GHM, WRN-Test w/o FBS"		1		6well/6wells	3D	1				
+138.1.3	138.1	CRC	23.02.21	"GHM, WRN-Test w/o FBS"		2		10cm	3D	2				
+139.1.1	139.1	PDAC	06.01.21	GHM		0		6well/5wells	3D	1				
+139.1.2	139.1	PDAC	18.01.21	GHM		1		6well/3wells	3D	1				
+139.1.3	139.1	PDAC	29.01.21	GHM		2		10cm	3D	1				
+139.1.4	139.1	PDAC	05.02.21	GHM		3		10cm	3D	1				
+140.3.1	140.3	Melanoma	12.01.21	"CHM, CHK"		0		6well/4wells	3D	1				
+140.3.2	140.3	Melanoma	20.01.21	"CHM, CHK"		1		6well/4wells	3D	1				
+140.3.3	140.3	Melanoma	20.01.21	"CHM,"		1	Banking completed		3D					
+140.4.1	140.4	Melanoma	20.01.21	CHK		1	Banking completed		3D					
+140.1.1	140.1	Melanoma 2D	20.01.21	"CHM, CHK"		1		T25	2D	3				
+140.1.2	140.1	Melanoma 2D	03.02.21	CHM		1	Banking completed		2D					
+140.2.1	140.2	Melanoma 2D	03.02.21	CHM		1	Banking completed		2D					
+141.1.1	141.1	CCC	12.01.21	GHM		0		6well/4wells	3D	1				
+141.1.2	141.1	CCC	14.01.21	GHM		1		6well/6wells	3D	1				
+141.1.3	141.1	CCC	17.01.21	GHM		1	Terminated		3D					
+142.1.1	142.1	HCA	13.01.21	"GHM, CHM, CHK"		0		6well/6wells	2D	1				
+142.1.2	142.1	HCA	24.01.21	"GHM, CHM, CHK"		0	Terminated		2D					
+143.1.1	143.1	CRC	13.01.21	GHM		0		6well/2wells	3D	1				
+143.1.2	143.1	CRC	19.01.21	GHM		1		6well/3wells	3D	1				
+143.1.3	143.1	CRC	27.01.21	GHM		2		10cm	3D	1				
+143.1.4	143.1	CRC	08.02.21	GHM		3		10cm	3D	1				
+143.1.5	143.1	CRC	17.02.21	GHM		4		10cm	3D	2				
+143.1.6	143.1	CRC	24.02.21	GHM		4	Frozen		3D					
+143.2.1	143.2	CRC	23.02.21	GHM		5		10cm	3D	2				
+143.2.2	143.2	CRC	24.02.21	GHM		4			3D					
+144.2.1	144.2	HCC	14.01.21	"GHM, CHM, CHK"		0		6well/6wells	n.a.	1				
+144.2.2	144.2	HCC	24.01.21	"GHM, CHM, CHK"		0	Terminated		n.a.					
+145.2.1	145.2	UPS	18.01.21	"DMEM, CHM, CHK"		0			2D					
+145.2.2	145.2	UPS	31.01.21	"DMEM, CHM, CHK"		0	Terminated		2D					
+146.2.1	146.2	CCC	19.01.21	GHM		0		6well/4wells	3D	1				
+146.2.2	146.2	CCC	20.01.21	GHM		0	Terminated		3D					
+146.1.1	146.1	CCC	22.01.21	GHM		0	Thawed	6well/1well	3D	1				
+146.1.2	146.1	CCC	08.02.21	GHM		1		6well/2wells	3D	1				
+146.1.3	146.1	CCC	23.02.21	GHM		2		6well/4wells	3D	1				
+147.2.1	147.2	Sarcoma	22.01.21	"CHK, CHM, DMEM"		0			2D					
+147.2.2	147.2	Sarcoma	13.02.21	CHK and DMEM		1			2D					
+147.2.3	147.2	UPS	21.01.21			0			2D					
+147.2.4	147.2	UPS	13.02.21	DMEM		1		T150	2D					
+147.2.5	147.2	UPS	13.02.21	CHK		1		T150	2D					
+147.2.6	147.2	UPS	19.02.21	CHK		2		T150	2D	2				
+147.3.1	147.3	UPS	19.02.21	DMEM		2	Frozen	T150	2D	1				
+148.1.1	148.1	D�nndarm AdenoCA	26.01.21	"GHM, WRN-Test "		0		6well/5wells	3D	1				
+148.1.2	148.1	D�nndarm AdenoCA	05.02.21	"GHM, WRN-Test "		1		6well/6wells	3D	1				
+148.1.3	148.1	D�nndarm AdenoCA	15.02.21	WRN-Test w/o FBS		2		10cm	3D	1				
+148.1.4	148.1	D�nndarm AdenoCA	22.02.21	WRN-Test w/o FBS		3		10cm	3D	2				
+149.2.1	149.2	CCC	26.01.21	GHM		0			3D					
+149.2.2	149.2	CCC	29.01.21	GHM		0	Terminated		3D					
+150.2.1	150.2	Sarcoma	28.01.21	"DMEM, CHM, CHK"		0			2D					
+150.2.2	150.2	Sarcoma	31.01.21	CHM		1		T75	2D	1				
+150.2.3	150.2	Sarcoma	07.02.21	DMEM		2		T150	2D	2				
+150.2.4	150.2	Sarcoma	09.02.21	DMEM		2	Frozen		2D					
+150.3.1	150.3	Sarcoma	12.02.21	DMEM		2	Frozen		2D					
+151.2.1	151.2	CRC	02.02.21	GHM		0		6well/6wells	3D	1				
+151.2.2	151.2	CRC	08.02.21	GHM		1		10cm	3D	1				
+151.2.3	151.2	CRC	15.02.21	GHM		2		10cm	3D	3				
+151.2.4	151.2	CRC	22.02.21	GHM		3		10cm	3D	2				
+151.2.5	151.2	Colon	24.02.21	GHM		2	Frozen		3D					
+151.3.1	151.3	Colon	24.02.21	GHM		2			3D					
+152.1.1	152.1	CRC	09.02.21	GHM		0		6well/4wells	3D	1				
+152.1.2	152.1	CRC	16.02.21	"GHM, WRN-Test w/o FBS"		1		6well/6wells	3D	1				
+153.1.1	153.1	CCC	09.02.21	GHM		0		6well/2wells	3D	1				
+155.1.1	155.1	CUP	28.09.20	"GHM, CHM, CHK"		0			3D					
+155.1.2	155.1	CUP	25.10.20	"GHM, CHM, CHK"		0	Terminated		3D					
+156.1.1	156.1	CUP	23.09.20	"GHM, CHM, CHK"		0			3D					
+156.1.2	156.1	CUP	25.10.20	"GHM, CHM, CHK"		0	Terminated		3D					
+157.1.1	157.1	Katze 	17.10.20	DMEM 10% FBS		0	Terminated	T25	2D	1				
+158.1.1	158.1	Hund	24.09.20	DMEM 10% FBS		0		T75	2D	1				
+158.1.2	158.1	Hund	29.10.20	DMEM 10% FBS		1		T75	2D	1				
+158.1.3	158.1	Hund	16.11.20	DMEM 10% FBS		2		T150	2D	1				
+158.1.4	158.1	Hund	23.11.20	DMEM 10% FBS		3		T150	2D	1				
+158.1.5	158.1	Hund	02.12.20	DMEM 10% FBS		3	Banking completed		2D					
+159.1.1	159.1	Hund	30.10.20	DMEM 10% FBS		1		T75	2D	1				
+159.1.2	159.1	Hund	16.11.20	DMEM 10% FBS		2		T150	2D	1				
+159.1.3	159.1	Hund	23.11.20	DMEM 10% FBS		3		T150	2D	1				
+159.1.4	159.1	Hund	02.12.20	DMEM 10% FBS		3	Banking completed		2D					
+161.1.1	161.1	Liver-Mouse	03.12.20	"GHM,CHK, CHM"		0		6well/6wells	3D	1				
+161.1.2	161.1	Liver-Mouse	11.12.20	"GHM,CHK, CHM"		1		6well/6wells	3D	1				
+161.1.3	161.1	Liver-Mouse	17.12.20	GHM		2		6well/4wells	3D	1				
+161.1.4	161.1	Liver-Mouse	28.12.20	GHM		3		10cm	3D	1				
+161.1.5	161.1	Liver-Mouse	29.12.20	GHM		4		10cm	3D	2				
+161.1.6	161.1	Liver-Mouse	30.12.20	GHM		4	Frozen		3D					
+161.2.1	161.2	Liver-Mouse	30.12.20	GHM		4			3D					
+161.2.2	161.2	Liver-Mouse	04.01.21	GHM		5		10cm	3D	2				
+161.2.3	161.2	Liver-Mouse	12.01.21	GHM		5	Frozen		3D					
+163.1.1	163.1	Peritoneal Carcinomatose	03.11.20		0				3D					
+163.1.2	163.1	Peritoneal Carcinomatose	09.11.20		1				3D					
+163.1.3	163.1	Peritoneal Carcinomatose	24.11.20		2			6well/2wells	3D	1				
+163.1.4	163.1	Peritoneal Carcinomatose	08.01.21		3			6well/2wells	3D	1				
+164.1.1	164.1	Prostate	29.07.20			0	Terminated		2D					
+165.1.1	165.1	Lung	29.07.20			0			2D					
+165.1.2	165.1	Lung	10.08.20			1			3D					
+165.1.3	165.1	Lung	25.09.20			2			3D					
+166.1.1	166.1	Lung	10.08.20			0			2D					
+166.1.2	166.1	Lung	19.08.20			1			3D					
+166.1.3	166.1	Lung	31.08.20			1	Terminated		3D					
+167.1.1	167.1	Lung	09.08.20			0			2D					
+167.1.2	167.1	Lung	17.09.20			1			3D					
+167.1.3	167.1	Lung	15.10.20			2			3D					
+167.1.4	167.1	Lung	23.11.20			3		6well/4wells	3D	1				
+167.1.5	167.1	Lung	16.12.20	CHM		4		10cm	3D	2				
+167.1.6	167.1	Lung	29.12.20	CHM		4	Banking completed		3D					
+167.2.1	167.2	Lung	29.12.20	CHM		4			3D					
+167.2.2	167.2	Lung	07.01.21	CHM		5		10cm	3D	3	yes		26.01.21	
+167.2.3	167.2	Lung	20.01.21	CHM		5	Banking completed		3D					
+167.3.1	167.3	Lung	20.01.21	CHM		5			3D					
+167.3.2	167.3	Lung	26.01.21	CHM		5	Banking completed		3D					
+168.1.1	168.1	Lung	07.08.20			0			2D					
+168.1.2	168.1	Lung	20.08.20			0			3D					
+168.1.3	168.1	Lung	08.09.20			1			3D					
+168.1.4	168.1	Lung	15.11.20			1	Terminated		3D					
+169.1.1	169.1	CUP	11.08.20			0			2D					
+169.1.2	169.1	CUP	12.08.20			0			3D					
+169.1.3	169.1	CUP	19.08.20			0	Terminated		3D					
+170.1.1	170.1	Ovary	11.08.20			0			2D					
+170.1.2	170.1	Ovary	20.08.20			0			3D					
+170.1.3	170.1	Ovary	17.09.20			1			3D					
+170.1.4	170.1	Ovary	10.11.20			2			3D					
+170.1.5	170.1	Ovary	05.01.21			2	Banking completed		3D					
+171.1.1	171.1	Ovary	19.08.20			0			2D					
+171.1.2	171.1	Ovary	20.08.20			0			3D					
+171.1.3	171.1	Ovary	26.08.20			1			3D					
+171.1.4	171.1	Ovary	15.09.20			1	Banking completed		3D					
+171.2.1	171.2	Ovary	15.09.20			1			3D					
+171.2.2	171.2	Ovary	30.09.20			2			3D					
+171.2.3	171.2	Ovary	03.11.20			2	Banking completed		3D					
+172.1.1	172.1	PDAC	26.08.20			0	Terminated		2D					
+173.1.1	173.1	lung	27.08.20	CHM		0			2D					
+173.1.2	173.1	lung	02.09.20	CHM		0	Terminated		2D					
+174.1.1	174.1	Lung	05.09.20			0			3D					
+174.1.2	174.1	Lung	13.09.20			1			3D					
+174.1.3	174.1	Lung	29.09.20			1	Terminated		3D					
+175.1.1	175.1	lung	05.09.20			0			2D					
+175.1.2	175.1	lung	08.09.20			0			3D					
+175.1.3	175.1	lung	22.09.20			1			3D					
+175.1.4	175.1	lung	15.10.20			2			3D					
+175.1.5	175.1	lung	03.11.20	CHM		3			3D					
+175.1.6	175.1	lung	24.11.20	CHM		3	Banking completed		3D					
+176.1.1	176.1	lung	09.09.20			0	Terminated		2D					
+177.1.1	177.1	lung	09.09.20			0			2D					
+177.1.2	177.1	lung	13.09.20			1			3D					
+177.1.3	177.1	lung	28.09.20			2			3D					
+177.1.4	177.1	lung	04.11.20			3			3D					
+177.1.5	177.1	lung	09.12.20			4		6well/2wells	3D	1				
+177.1.6	177.1	lung	06.01.21			5		6well/4wells	3D	1				
+177.1.7	177.1	lung	19.01.21			6		10cm	3D	1				
+177.1.8	177.1	lung	02.02.21			6	Banking completed		3D					
+178.1.1	178.1	lung	09.09.20			0			2D					
+178.1.2	178.1	lung	13.09.20			1			3D					
+178.1.3	178.1	lung	28.09.20			2			3D					
+178.1.4	178.1	lung	04.11.20			2	Terminated		3D					
+179.1.1	179.1	CRC	16.09.20			0			2D					
+179.1.2	179.1	CRC	05.10.20			0	Terminated		2D					
+180.1.1	180.1	Breast	18.09.20	"CHM, CHK"		0			2D					
+180.1.2	180.1	Breast	21.09.20	"CHM, CHK"		0			3D					
+180.1.3	180.1	Breast	02.10.20	"CHM, CHK"		1			3D					
+180.1.4	180.1	Breast	20.10.20	"CHM, CHK"		2			3D					
+180.1.5	180.1	Breast	11.11.20	CHM		3			3D					
+180.1.6	180.1	Breast	24.11.20	CHM		4		10cm	3D	2				
+180.1.7	180.1	Breast	08.12.20	CHM		4	Banking completed		3D					
+180.2.1	180.2	Breast	08.12.20	CHM		5		10cm	3D	2				
+180.2.2	180.2	Breast	16.12.20	CHM		5	Banking completed		3D					
+180.3.1	180.3	Breast	16.12.20	CHM		6		10cm	3D	2				
+180.3.2	180.3	Breast	30.12.20	CHM		6	Banking completed		3D					
+181.1.1	181.1	Ovary	22.09.20	CHK		0			2D					
+181.1.2	181.1	Ovary	23.09.20	CHK		0			3D					
+181.1.3	181.1	Ovary	28.09.20	CHK		1			3D					
+181.1.4	181.1	Ovary	27.10.20	CHK		1	Banking completed		3D					
+181.2.1	181.2	Ovary	27.10.20	CHK		1			3D					
+181.2.2	181.2	Ovary	03.11.20	CHK		2			3D					
+181.2.3	181.2	Ovary	16.11.20	CHK		2	Banking completed		3D					
+181.3.1	181.3	Ovary	16.11.20	CHK		2			3D					
+181.3.2	181.3	Ovary	18.11.20	CHK		2	Banking completed		3D					
+182.1.1	182.1	tube (fallopian?)	22.09.20	CHK		0			3D					
+182.1.2	182.1	tube (fallopian?)	29.09.20	CHK		1			3D					
+182.1.3	182.1	tube (fallopian?)	19.10.20	CHK		2			3D					
+182.1.4	182.1	tube (fallopian?)	13.12.20	CHK		2	Terminated		3D					
+183.1.1	183.1	PDAC	22.09.20	GHM		0			2D					
+183.1.2	183.1	PDAC	23.09.20	GHM		0			3D					
+183.1.3	183.1	PDAC	13.10.20	GHM		1			3D					
+183.1.4	183.1	PDAC	30.10.20	GHM		2			3D					
+183.1.5	183.1	PDAC	10.11.20	GHM		3			3D					
+183.1.6	183.1	PDAC	24.11.20	GHM		4		10cm	3D	2				
+183.1.7	183.1	PDAC	01.12.20	GHM		4	Frozen		3D					
+183.2.1	183.2	PDAC	01.12.20	GHM		4			3D					
+183.2.2	183.2	PDAC	08.12.20	GHM		5		10cm	3D	2				
+183.2.3	183.2	PDAC	15.12.20	GHM		5	Frozen		3D					
+183.3.1	183.3	PDAC	15.12.20	GHM		5			3D					
+183.3.2	183.3	PDAC	16.12.20	GHM		6		10cm	3D	2				
+183.3.3	183.3	PDAC	22.12.20	GHM		6	Frozen		3D					
+183.4.1	183.4	PDAC	22.12.20	GHM		7		10cm	3D	2				
+183.4.2	183.4	PDAC	28.12.20	GHM		7			3D					
+183.5.1	183.5	PDAC	28.12.20	GHM		7	Frozen		3D					
+183.5.2	183.5	PDAC	30.12.20	GHM		8		10cm	3D	2				
+183.5.3	183.5	PDAC	04.01.21	GHM		8	Frozen		3D					
+183.6.1	183.6	PDAC	04.01.21	GHM		8			3D					
+183.6.2	183.6	PDAC	08.01.21	GHM		9		10cm	3D	2				
+183.6.3	183.6	PDAC	14.01.21	GHM		9	Frozen		3D					
+183.7.1	183.7	PDAC	14.01.21	GHM		10		10cm	3D	2				
+183.7.2	183.7	PDAC	22.01.21	GHM		10	Frozen		3D					
+183.8.1	183.8	PDAC	22.01.21	GHM		11		10cm	3D	1				
+183.8.2	183.8	PDAC	05.02.21	GHM		12		10cm	3D	1				
+184.1.1	184.1	Lung	25.09.20			0			2D					
+184.1.2	184.1	Lung	27.09.20			0	Terminated		2D					
+185.1.1	185.1	CRC	30.09.20	GHM		0			2D					
+185.1.2	185.1	CRC	02.10.20	GHM		0	Terminated		2D					
+186.1.1	186.1	Breast	30.09.20	CHK		0			2D					
+186.1.2	186.1	Breast	02.10.20	CHK		0			3D					
+186.1.3	186.1	Breast	19.10.20	CHK		1			3D					
+186.1.4	186.1	Breast	30.12.20	CHK		1	Terminated		3D					
+187.1.1	187.1	Lung	02.10.20	CHM		0			2D					
+187.1.2	187.1	Lung	05.10.20	CHM		0	Terminated		2D					
+188.1.1	188.1	Lung	02.10.20	CHM		0			2D					
+188.1.2	188.1	Lung	05.10.20	CHM		0			3D					
+188.1.3	188.1	Lung	14.10.20	CHM		1			3D					
+188.1.4	188.1	Lung	29.10.20	CHM		2			3D					
+188.1.5	188.1	Lung	09.11.20	CHM		3			3D					
+188.1.6	188.1	Lung	23.11.20	CHM		4		10cm	3D	2				
+188.1.7	188.1	Lung	01.12.20	CHM		4	Banking completed		3D					
+188.2.1	188.2	Lung	01.12.20	CHM		5		10cm	3D	2				
+188.3.1	188.3	Lung	08.12.20	CHM		6		10cm	3D	2				
+188.3.2	188.3	Lung	15.12.20	CHM		6	Banking completed		3D					
+189.1.1	189.1	CUP	02.10.20	CHM		0			2D					
+189.1.2	189.1	CUP	05.10.20	CHM		0			3D					
+189.1.3	189.1	CUP	14.10.20	CHM		1			3D					
+189.1.4	189.1	CUP	25.11.20	CHM		2		10cm	3D	2				
+189.1.5	189.1	CUP	16.12.20	CHM		2	Frozen		3D					
+189.2.1	189.2	CUP	16.12.20	CHM		3		10cm	3D	2				
+189.2.2	189.2	CUP	28.12.20	CHM		3	Frozen		3D					
+189.3.1	189.3	CUP	28.12.20	CHM		3			3D					
+189.3.2	189.3	CUP	30.12.20	CHM		4		10cm	3D	2	yes		07.01.21	
+189.3.3	189.3	CUP	08.01.21	CHM		5			3D					
+189.3.4	189.3	CUP	11.01.21	CHM		5	Frozen		3D					
+189.4.1	189.4	CUP	11.01.21	CHM		5			3D					
+189.4.2	189.4	CUP	18.01.21	CHM		6		10cm	3D	2	yes		03.02.21	
+189.4.3	189.4	CUP	20.01.21	CHM		6	Frozen		3D					
+189.5.1	189.5	CUP	20.01.21	CHM		6			3D					
+189.5.2	189.5	CUP	02.02.21	CHM		6	Frozen		3D					
+189.6.1	189.6	CUP	02.02.21	CHM		6			3D					
+189.6.2	189.6	CUP	03.02.21	CHM		7		10cm	3D	2				
+189.6.3	189.6	CUP	18.02.21	CHM		7	Banking completed		3D					
+190.1.1	190.1	CCC	24.10.20	GHM		0			2D					
+190.1.2	190.1	CCC	29.10.20	GHM		0			3D					
+190.1.3	190.1	CCC	26.11.20	GHM		1		6well/2wells	3D	1				
+190.1.4	190.1	CCC	16.12.20	GHM		2		6well/4wells	3D	1				
+190.1.5	190.1	CCC	31.12.20	GHM		3		10cm	3D	1				
+190.1.6	190.1	CCC	11.01.21	GHM		4		10cm	3D	2				
+190.1.7	190.1	CCC	20.01.21	GHM		4	Banking completed		3D					
+190.2.1	190.2	CCC	18.01.21	GHM		5		10cm	3D	2				
+190.2.2	190.2	CCC	28.01.21	GHM		5	Banking completed		3D					
+190.3.1	190.3	CCC	28.01.21	GHM		5			3D					
+190.3.2	190.3	CCC	02.02.21	GHM		5	Banking completed		3D					
+191.1.1	191.1	Ovary	06.11.20	CHM		0	Terminated		2D					
+192.1.1	192.1	CUP	06.11.20	CHM		0			2D					
+192.1.2	192.1	CUP	07.11.20	CHM		0			3D					
+192.1.3	192.1	CUP	27.11.20	CHM		1		6well/4wells	3D	1				
+192.1.4	192.1	CUP	16.12.20	"CHM, CHK"		2		10cm	3D	2				
+192.1.5	192.1	CUP	25.01.21	"CHM, CHK"		3		10cm	3D	2				
+192.1.6	192.1	CUP	09.02.21	CHK		3	Banking completed		3D					
+192.1.7	192.1	CUP		CHK		3			3D					
+192.1.8	192.1	CUP	16.02.21	CHK		4		10cm	3D	2				
+193.1.1	193.1	Kleinzeller	10.11.20	"CHM, CHK"		0			2D					
+193.1.2	193.1	Kleinzeller	13.11.20	"CHM, CHK"		0			2D					
+193.1.3	193.1	Kleinzeller	17.11.20	"CHM, CHK"		0	Banking completed		2D					
+193.2.1	193.2	Kleinzeller	20.11.20	"CHM, CHK"		0			2D					
+193.2.2	193.2	Kleinzeller	30.11.20	"CHM, CHK"		0	Banking completed		2D					
+194.1.1	194.1	Ovary	10.11.20	"CHM, CHK"		0			2D					
+194.1.2	194.1	Ovary	13.11.20			0	Terminated		2D					
+195.1.1	195.1	PDAC	05.01.20	GHM		2	Frozen		3D					
+195.1.2	195.1	PDAC	02.12.20	GHM		0		6well/4wells	2D	1				
+195.1.3	195.1	PDAC	06.12.20	GHM		0		6well/4wells	3D	1				
+195.1.4	195.1	PDAC	16.12.20	GHM		1		10cm	3D	1				
+195.1.5	195.1	PDAC	30.12.20	GHM		2			3D					
+195.2.1	195.2	PDAC	05.01.20	GHM		2			3D					
+195.2.2	195.2	PDAC	08.01.21	GHM		3		10cm	3D	2				
+195.2.3	195.2	PDAC	14.01.21	GHM		3	Frozen		3D					
+195.3.1	195.3	PDAC	14.01.21	GHM		4		10cm	3D	2				
+195.3.2	195.3	PDAC	22.01.21	GHM		4	Frozen		3D					
+195.4.1	195.4	PDAC	22.01.21	GHM		5		10cm	3D	1				
+195.4.2	195.4	PDAC	29.01.21	GHM		6		10cm	3D	2				
+195.4.3	195.4	PDAC	05.02.21	GHM		6	Frozen		3D					
+195.5.1	195.5	PDAC	05.02.21	GHM		7		10cm	3D	1				
+196.1.1	196.1	CCC	13.12.20	GHM		0			3D					
+196.1.2	196.1	CCC	23.12.20	GHM		1		6well/4wells	3D	1				
+196.1.3	196.1	CCC	06.01.21	GHM		2		10cm	3D	1				
+196.1.4	196.1	CCC	27.01.21	GHM		3		10cm	3D	1				
+196.2.1	196.2	CCC	27.01.21	GHM		3		6well/1well	2D	1				
+197.1.1	197.1	Lung	22.04.20			0			3D					
+197.1.2	197.1	Lung	15.05.20			1			3D					
+197.1.3	197.1	Lung	13.06.20			2			3D					
+197.1.4	197.1	Lung	06.07.20			3			3D					
+197.1.5	197.1	Lung	20.07.20			4			3D					
+197.1.6	197.1	Lung	21.07.20			4	Banking completed		3D					
+197.2.1	197.2	Lung	21.07.20			4			3D					
+197.2.2	197.2	Lung	10.08.20			4	Banking completed		3D					
+197.3.1	197.3	Lung	10.08.20			5			3D					
+197.3.2	197.3	Lung	25.09.20			6			3D					
+197.3.3	197.3	Lung	26.10.20			6	Banking completed		3D					
+198.1.1	198.1	Lung	14.05.20			0			3D					
+198.1.2	198.1	Lung	13.06.20			2			3D					
+198.1.3	198.1	Lung	06.07.20			3			3D					
+198.1.4	198.1	Lung	23.07.20			4			3D					
+198.1.5	198.1	Lung	12.08.20			4	Banking completed		3D					
+198.1.6	198.1	Lung				1			3D					
+198.2.1	198.2	Lung	12.08.20			5			3D					
+198.2.2	198.2	Lung	23.09.20			6			3D					
+198.2.3	198.2	Lung	26.10.20			6	Banking completed		3D					
+199.1.1	199.1	Ovary	26.05.20			0			3D					
+199.1.2	199.1	Ovary	05.06.20			1			3D					
+199.1.3	199.1	Ovary	12.06.20			2			3D					
+199.1.4	199.1	Ovary	20.06.20			3			3D					
+199.1.5	199.1	Ovary	18.07.20			4			3D					
+199.1.6	199.1	Ovary	17.08.20			5			3D					
+199.1.7	199.1	Ovary	02.10.20			6	Terminated		3D					
+200.1.1	200.1	SinunasalesCA	03.06.20			0	Terminated		2D					
+201.1.1	201.1	Breast	08.06.20			0			2D					
+201.1.2	201.1	Breast	12.06.20			0			3D					
+201.1.3	201.1	Breast	28.06.20			1			3D					
+201.1.4	201.1	Breast	03.08.20			2			3D					
+201.1.5	201.1	Breast	20.08.20			3			3D					
+201.1.6	201.1	Breast	08.09.20			4			3D					
+201.1.7	201.1	Breast	20.10.20			4	Banking completed		3D					
+201.2.1	201.2	Breast	20.10.20			5			3D					
+201.2.2	201.2	Breast	03.11.20			5	Banking completed		3D					
+202.1.1	202.1	Ovary	09.06.20			0			3D					
+202.1.2	202.1	Ovary	15.06.20			1			3D					
+202.1.3	202.1	Ovary	30.06.20			2			3D					
+202.1.4	202.1	Ovary	10.07.20			3			3D					
+202.1.5	202.1	Ovary	28.07.20			3	Banking completed		3D					
+202.2.1	202.2	Ovary	28.07.20			4			3D					
+202.2.2	202.2	Ovary	13.08.20			4	Banking completed		3D					
+202.3.1	202.3	Ovary	13.08.20			5			3D					
+202.3.2	202.3	Ovary	26.08.20			5	Banking completed		3D					
+202.4.1	202.4	Ovary	26.08.20			6			3D					
+202.4.2	202.4	Ovary	15.09.20			6	Banking completed		3D					
+203.1.1	203.1	Lung	13.06.20			0			3D					
+203.1.2	203.1	Lung	18.07.20			1			3D					
+203.1.3	203.1	Lung	13.08.20			2			3D					
+203.1.4	203.1	Lung	22.09.20			3			3D					
+203.1.5	203.1	Lung	28.10.20			4			3D					
+203.1.6	203.1	Lung	24.11.20			4	Banking completed		3D					
+205.1.1	205.1	Ovary	02.06.20			0			3D					
+205.1.2	205.1	Ovary	24.07.20			1			3D					
+205.1.3	205.1	Ovary	13.08.20			2			3D					
+205.1.4	205.1	Ovary	31.08.20			2	Banking completed		3D					
+205.2.1	205.2	Ovary	31.08.20			3			3D					
+205.2.2	205.2	Ovary	16.09.20			3	Banking completed		3D					
+205.2.3	205.2	Ovary	17.09.20			4			3D					
+205.3.1	205.3	Ovary	27.10.20			4	Banking completed		3D					
+206.1.1	206.1	Lung	22.07.20			0			2D					
+206.1.2	206.1	Lung	23.07.20			0			2D					
+206.1.3	206.1	Lung	23.07.20			0	Frozen		3D					
+206.2.1	206.2	Lung	13.08.20			1			3D					
+206.2.2	206.2	Lung	08.09.20			2			3D					
+206.2.3	206.2	Lung	15.11.20			2	Terminated		3D					
+207.1.1	207.1	OesophagusCA	13.01.21	"GHM, CHM, CHK"		0			2D					
+207.1.2	207.1	OesophagusCA	14.01.21	"GHM, CHM, CHK"		0		6well/3wells	3D	1				
+207.1.3	207.1	OesophagusCA	26.01.21	"CHM, CHK"		1		6well/5wells	3D	1				
+207.1.4	207.1	OesophagusCA	10.02.21	CHK		2		6well/2wells	3D	1				
+207.1.5	207.1	OesophagusCA	21.02.20	CHK		2	Terminated	6well/2wells	3D	1				
+208.1.1	208.1	MagenCA	21.01.21	"GHM, CHK"		0		6well/2wells	3D	1				
+208.1.2	208.1	MagenCA	02.02.21	"GHM, CHK"		1		6well/4wells	3D	1				
+208.1.3	208.1	MagenCA	17.02.21	"GHM, CHK"		2		10cm	3D	2				
+208.1.4	208.1	MagenCA	22.02.21	"GHM, CHK"		2	Terminated		3D					
+209.1.1	209.1	Urothel	22.01.21	"CHM, CHK"		0		6well/2wells	2D	1				
+209.1.2	209.1	Urothel	26.01.21	no tumor		0	Terminated		3D					
+210.1.1	210.1	Lung Adeno	30.01.21	CHM		0		6well/6wells	2D	1				
+210.1.2	210.1	Lung Adeno	04.02.21	CHM		0		6well/4wells	3D	1				
+210.1.3	210.1	Lung Adeno	09.02.21	CHM		1		6well/6wells	3D	1				
+211.1.1	211.1	MagenCA	11.02.21	GHM		0		6well/1well	3D	1				
+211.1.2	211.1	MagenCA	21.02.21	GHM		0	Terminated		2D					
+212.1.1	212.1	Lymphom	11.02.21	"CHM, CHK"		0		6well/4wells	2D	1				
+212.1.2	212.1	Lymphom	21.02.21	"CHM, CHK"		0	Terminated		2D					
+32.1.1	32.1	CCC	16.04.20	GHM		0			3D					
+32.1.2	32.1	CCC	06.05.20	GHM		1			3D					
+32.1.3	32.1	CCC	29.05.20	GHM		2			3D					
+32.1.4	32.1	CCC	14.06.20	GHM		3			3D					
+32.1.5	32.1	CCC	26.06.20	GHM		4			3D					
+41.1.1	41.1	Bone	30.05.20			1			2D					
+41.1.2	41.1	Bone	13.06.20			2			2D					
+41.1.3	41.1	Bone	06.07.20			4		T150	2D	1				
+41.1.4	41.1	Bone	06.07.20			4		T150	2D	1				
+41.1.5	41.1	Bone	06.07.20			4		T150	2D	1				
+41.1.6	41.1	Bone	20.07.20			3	Terminated	T150	2D	1				
+42.1.1	42.1	Myxofibrosarkom	25.05.20				Terminated		2D					
+54.1.1	54.1	PDAC	16.06.20	GHM		0			3D					
+54.1.2	54.1	PDAC	06.07.20	GHM		1			3D					
+54.1.3	54.1	PDAC	28.07.20	GHM		2			3D					
+54.1.4	54.1	PDAC	13.08.20	GHM		3			3D					
+54.1.5	54.1	PDAC	24.08.20	GHM		3	Frozen		3D					
+165.1.1	165.1	Lung	15.11.20			2	Terminated		3D					
+54.1.12	54.1	PDAC	26.08.20	GHM		3	Frozen		3D					
+188.1.8	188.1	Lung	07.12.20	CHM		5	Banking completed		3D					
+54.1.7	54.1	PDAC	26.08.20	GHM		4			3D					
+54.1.8	54.1	PDAC	16.09.20	GHM		4	Frozen		3D					
+188.1.9	188.1	Lung	07.12.20	CHM		5			3D					
+54.1.9	54.1	PDAC	25.09.20	DMEM		5	Terminated		2D					
+54.1.10	54.1	PDAC	25.09.20	GHM		5			3D					
+54.1.11	54.1	PDAC	22.10.20	GHM		5	Terminated		3D					
+66.1.1	66.1	CRC	14.10.20	GHM		0	Terminated		3D					
+77.1.1	77.1	Breast	24.02.21	"CHM, CHK"		6	Banking completed		3D					
+80.1.1	80.1	Sinunasal	24.02.21	CHK		8	Banking completed		3D					
+160.1.1	160.1	Hund	06.11.20				Frozen		2D					
+160.1.2	160.1	Hund				0			2D					
+160.1.3	160.1	Hund	10.12.20			2	Banking completed		2D					
+162.1.1	162.1	SS	09.07.20			6	Banking completed		2D					
+162.1.2	162.1	SS	25.03.20			0			2D					
